@@ -4,8 +4,8 @@
   <h2 class="sidebar-name">{{ if $isJP }}李家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
   <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else }}李家隆{{ end }}</p>
   {{ if $isJP }}
-    <p class="sidebar-role">早稲田大学 高等研究所 講師（任期付）</p>
-    <p class="sidebar-role">東京科学大学 総合研究院 研究員</p>
+    <p class="sidebar-role">早稲田大学 高等研究所 講師</p>
+    <p class="sidebar-role">東京科学大学 特別研究員</p>
   {{ else }}
     <p class="sidebar-role">{{ .Site.Params.role }}</p>
     {{ with .Site.Params.role2 }}

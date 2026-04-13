@@ -10,7 +10,6 @@ enableRobotsTXT = true
   role2 = "Research Associate, Institute of Science Tokyo"
   location = "Tokyo, Japan"
   organization = "Waseda University / Institute of Science Tokyo"
-  description = "Personal academic website for Jialong Li, covering research, publications, and CV."
   email = "lijialong [at] fuji [dot] waseda [dot] jp"
   scholar = "https://scholar.google.com/citations?user=EUqTNVcAAAAJ&hl=en"
   researchmap = "https://researchmap.jp/jialong?lang=en"
