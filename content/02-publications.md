@@ -110,4 +110,4 @@ toc: true
 
 ## Other Items
 
-For other items such as domestic Japanese conferences and oral presentations, please refer to [Researchmap](https://researchmap.jp/jialong?lang=en).
+For other items such as domestic Japanese conferences and oral presentations, please refer to [Researchmap](https://researchmap.jp/jialong?lang=en) or the [Japanese page]({{< relref "/04-jp.md" >}}).
