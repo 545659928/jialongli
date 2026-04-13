@@ -1,6 +1,6 @@
 ---
 title: Research
-summary: Research vision, questions, and application areas centered on SHARE: Software with Humanity, Adaptability, and Reliability.
+summary: "Research vision, questions, and application areas centered on SHARE: Software with Humanity, Adaptability, and Reliability."
 toc: true
 ---
 
