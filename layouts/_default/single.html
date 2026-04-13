@@ -10,13 +10,6 @@
         {{ end }}
       </header>
 
-      {{ if .Params.toc }}
-        <aside class="toc">
-          <h2>On This Page</h2>
-          {{ .TableOfContents }}
-        </aside>
-      {{ end }}
-
       <section class="prose content-block">
         {{ .Content }}
       </section>
