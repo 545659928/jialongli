@@ -1,19 +1,17 @@
 ---
 title: Publications
-summary: Journal papers, refereed conference papers, and arXiv preprints.
 url: /publications/
 toc: true
 ---
-
 *`*` indicates the corresponding author (student co-supervision, etc.).*
 
 ## arXiv
 
-1. Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, Jialong Li*, Kenji Tei, "Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms", arXiv preprint arXiv:2502.19193, 2025.2. <https://arxiv.org/abs/2502.19193>
-2. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, Jialong Li, "Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements", arXiv preprint arXiv:2511.13069, 2025.11. <https://arxiv.org/abs/2511.13069>
-3. Jinyu Cai, Jialong Li, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models", arXiv preprint arXiv:2512.00560, 2025.12. <https://arxiv.org/abs/2512.00560>
-4. Yusei Ishimizu, Takuto Yamauchi, Sinan Chen, Jinyu Cai, Jialong Li*, Kenji Tei, "Automatic Syntax Error Repair for Discrete Controller Synthesis using Large Language Model", arXiv preprint arXiv:2512.07261, 2025.12. <https://arxiv.org/abs/2512.07261>
-5. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, Jialong Li, "Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning", arXiv preprint arXiv:2512.12706, 2025.12. <https://arxiv.org/abs/2512.12706>
+1. Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, Jialong Li*, Kenji Tei, "Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms", arXiv preprint arXiv:2502.19193, 2025.2. [https://arxiv.org/abs/2502.19193](https://arxiv.org/abs/2502.19193)
+2. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, Jialong Li, "Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements", arXiv preprint arXiv:2511.13069, 2025.11. [https://arxiv.org/abs/2511.13069](https://arxiv.org/abs/2511.13069)
+3. Jinyu Cai, Jialong Li, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models", arXiv preprint arXiv:2512.00560, 2025.12. [https://arxiv.org/abs/2512.00560](https://arxiv.org/abs/2512.00560)
+4. Yusei Ishimizu, Takuto Yamauchi, Sinan Chen, Jinyu Cai, Jialong Li*, Kenji Tei, "Automatic Syntax Error Repair for Discrete Controller Synthesis using Large Language Model", arXiv preprint arXiv:2512.07261, 2025.12. [https://arxiv.org/abs/2512.07261](https://arxiv.org/abs/2512.07261)
+5. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, Jialong Li, "Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning", arXiv preprint arXiv:2512.12706, 2025.12. [https://arxiv.org/abs/2512.12706](https://arxiv.org/abs/2512.12706)
 
 ## Journal
 

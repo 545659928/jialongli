@@ -6,10 +6,10 @@ enableRobotsTXT = true
 [params]
   author = "Jialong Li"
   name = "Jialong Li"
-  role = "Assistant Professor, Waseda University"
-  role2 = "Research Associate, Institute of Science Tokyo"
+  role = "Assistant Professor"
   location = "Tokyo, Japan"
-  organization = "Waseda University / Institute of Science Tokyo"
+  organization = "Waseda University"
+
   email = "lijialong [at] fuji [dot] waseda [dot] jp"
   emailLink = "mailto:lijialong@fuji.waseda.jp"
   scholar = "https://scholar.google.com/citations?user=EUqTNVcAAAAJ&hl=en"

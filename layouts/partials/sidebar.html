@@ -1,11 +1,10 @@
 <aside class="sidebar-card">
   {{ $isJP := and .File (eq .File.BaseFileName "jp") }}
   <div class="profile-mark" aria-hidden="true">JL</div>
-  <h2 class="sidebar-name">{{ if $isJP }}李家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
-  <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else }}李家隆{{ end }}</p>
+  <h2 class="sidebar-name">{{ if $isJP }}李 家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
+  <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else }}李 家隆{{ end }}</p>
   {{ if $isJP }}
-    <p class="sidebar-role">早稲田大学 高等研究所 講師</p>
-    <p class="sidebar-role">東京科学大学 特別研究員</p>
+    <p class="sidebar-role"> 講師</p>
   {{ else }}
     <p class="sidebar-role">{{ .Site.Params.role }}</p>
     {{ with .Site.Params.role2 }}
@@ -16,7 +15,7 @@
   <ul class="sidebar-list">
     {{ if $isJP }}
       <li>所在地：東京、日本</li>
-      <li>所属：早稲田大学 / 東京科学大学</li>
+      <li>所属：早稲田大学 高等研究所</li>
       <li><a href="{{ .Site.Params.emailLink }}">メール</a></li>
       <li><a href="{{ .Site.Params.linkedin }}">LinkedIn</a></li>
       <li><a href="{{ .Site.Params.scholar }}">Google Scholar</a></li>
