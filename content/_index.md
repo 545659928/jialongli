@@ -1,21 +1,5 @@
 ---
 title: Home
-description: Personal academic homepage of Jialong Li.
-role: Assistant Professor (fixed-term, PI), Waseda Institute for Advanced Study, Waseda University
-name: Jialong Li (李家隆)
-tagline: Building software with humanity, adaptability, and reliability at the intersection of Software Engineering, Artificial Intelligence, and Human-Computer Interaction.
-email: lijialong [at] fuji [dot] waseda [dot] jp
-email_link: lijialong@fuji.waseda.jp
-positions:
-  - Assistant Professor (fixed-term, PI), Waseda Institute for Advanced Study, Waseda University
-  - Research Fellow, School of Computing, Institute of Science Tokyo
-focus_areas:
-  - name: Humanity
-    text: Improving transparency, trust, accessibility, and human-centered interaction in AI-driven software systems.
-  - name: Adaptability
-    text: Designing self-adaptive, self-optimizing, and antifragile software with RL, optimization, and controller synthesis.
-  - name: Reliability
-    text: Advancing testing, verification, and quality assurance through formal methods and large language models.
 ---
 I am an Assistant Professor and Principal Investigator at the Waseda Institute for Advanced Study, Waseda University, and a special-appointment researcher at the Institute of Science Tokyo. My research envisions a future of software characterized by SHARE: Software with Humanity, Adaptability, and Reliability.
 Currently, I lead a diverse portfolio of research initiatives across Software Engineering, Artificial Intelligence, and Human-Computer Interaction. To promote humanity, we integrate Diversity, Equity, and Inclusion principles into software design and leverage large language models to enhance system transparency and accessibility. To improve adaptability, we use reinforcement learning, search-based software engineering, and optimization algorithms to build resilient autonomous systems capable of dynamic controller synthesis and graceful degradation. To ensure reliability, we combine formal methods with large language models for automated testing, verification, and AI-enabled software quality assurance.
