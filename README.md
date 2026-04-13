@@ -1,40 +1,65 @@
 # Hugo Personal Website
 
-This repository contains a Markdown-managed personal website built for Hugo and ready to deploy on GitHub Pages.
+This repository contains a Hugo-based personal website managed with Markdown and deployed with GitHub Pages.
 
-## Structure
+## Project Structure
 
-- `content/_index.md`: homepage content
-- `content/research.md`: research page
-- `content/publications.md`: publication list
-- `content/cv.md`: CV page
-- `layouts/`: custom Hugo templates
+- `content/_index.md`: homepage
+- `content/01-research.md`: research page
+- `content/02-publications.md`: publications page
+- `content/03-cv.md`: CV page
+- `content/04-jp.md`: Japanese page
+- `layouts/`: Hugo templates
 - `static/css/site.css`: site styles
+- `hugo.toml`: site configuration
 - `.github/workflows/hugo.yml`: GitHub Pages deployment workflow
 
-## How To Edit
+## How To Update Content
 
-Most future updates only require editing Markdown files under `content/`.
+Most edits only require changing Markdown files in `content/`.
 
-- Update homepage text in `content/_index.md`
-- Add or revise papers in `content/publications.md`
-- Update appointments, awards, and funding in `content/cv.md`
-- Adjust research directions in `content/research.md`
+- Update the homepage in `content/_index.md`
+- Update research information in `content/01-research.md`
+- Add or revise publications in `content/02-publications.md`
+- Update CV information in `content/03-cv.md`
+- Update Japanese content in `content/04-jp.md`
 
-## GitHub Pages Deployment
+## How To Update The Sidebar Or Navigation
 
-1. Create a GitHub repository for this folder.
-2. Push the contents to the `main` branch.
-3. In GitHub, open `Settings -> Pages`.
-4. Set `Source` to `GitHub Actions`.
-5. The included workflow will build and deploy the site automatically.
-
-If you want to use a custom domain, add a `static/CNAME` file and update `baseURL` in `hugo.toml`.
+- Edit `hugo.toml` for site-wide settings such as title, menu items, and profile links
+- Edit `layouts/partials/sidebar.html` for the left sidebar
+- Edit `layouts/_default/baseof.html` for the shared page layout
 
 ## Local Preview
 
-Install Hugo locally, then run:
+If Hugo is installed locally, run:
 
 ```bash
 hugo server -D
 ```
+
+Then open the local preview URL shown in the terminal.
+
+## How To Publish Updates
+
+After editing files, publish changes with:
+
+```bash
+git add .
+git commit -m "Update website content"
+git push
+```
+
+GitHub Actions will automatically rebuild and deploy the site after the push.
+
+## GitHub Pages Setup
+
+1. Push this repository to the `main` branch.
+2. Open `Settings -> Pages` in GitHub.
+3. Set `Source` to `GitHub Actions`.
+4. Wait for the workflow in `Actions` to finish successfully.
+
+## Notes
+
+- Keep this repository public-safe: do not place private notes, unpublished documents, or sensitive personal information here.
+- If using a custom domain, add `static/CNAME` and update `baseURL` in `hugo.toml`.
