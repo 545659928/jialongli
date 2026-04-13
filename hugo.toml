@@ -11,6 +11,7 @@ enableRobotsTXT = true
   location = "Tokyo, Japan"
   organization = "Waseda University / Institute of Science Tokyo"
   email = "lijialong [at] fuji [dot] waseda [dot] jp"
+  emailLink = "mailto:lijialong@fuji.waseda.jp"
   scholar = "https://scholar.google.com/citations?user=EUqTNVcAAAAJ&hl=en"
   researchmap = "https://researchmap.jp/jialong?lang=en"
   researchgate = "https://www.researchgate.net/profile/Jialong-Li"
@@ -29,21 +30,21 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "Home"
-    pageRef = "/"
+    url = "/"
     weight = 10
   [[menu.main]]
     name = "Research"
-    pageRef = "/research"
+    url = "/research/"
     weight = 20
   [[menu.main]]
     name = "Publications"
-    pageRef = "/publications"
+    url = "/publications/"
     weight = 30
   [[menu.main]]
     name = "CV"
-    pageRef = "/cv"
+    url = "/cv/"
     weight = 40
   [[menu.main]]
     name = "日本語"
-    pageRef = "/jp"
+    url = "/jp/"
     weight = 50
