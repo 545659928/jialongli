@@ -37,7 +37,7 @@ I also welcome interns and visiting students for both online and on-site collabo
 ## Profiles and Contact
 
 - Email: `lijialong [at] fuji [dot] waseda [dot] jp`
-- Waseda profile: <https://www.waseda.jp/inst/wias/other-en/2025/04/01/18456/>
+- LinkedIn: <https://www.linkedin.com/in/jialong-li-ba592615b/>
 - Google Scholar: <https://scholar.google.com/citations?user=EUqTNVcAAAAJ&hl=en>
 - Researchmap: <https://researchmap.jp/jialong?lang=en>
 - ResearchGate: <https://www.researchgate.net/profile/Jialong-Li>
