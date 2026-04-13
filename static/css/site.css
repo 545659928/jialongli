@@ -118,6 +118,13 @@ a:hover {
   font-size: 1.5rem;
 }
 
+.sidebar-name-sub {
+  margin: -2px 0 12px;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
 .sidebar-role,
 .sidebar-bio {
   margin: 0 0 12px;
