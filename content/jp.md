@@ -1,0 +1,86 @@
+---
+title: 日本語ページ
+summary: "研究概要、経歴、学歴、研究助成、受賞歴、委員歴などの日本語情報。"
+url: /jp/
+toc: true
+---
+
+## 概要
+
+Jialong Li（李家隆）は、早稲田大学 高等研究所 講師（任期付）であり、東京科学大学 情報理工学院の特別研究員でもあります。日本語の追加情報は [Researchmap](https://researchmap.jp/jialong?lang=ja) でも公開しています。
+
+李の研究では、ソフトウェアシステムの**人間への優しさ**、**適応性**、**信頼性**の向上に取り組んでいます。具体的には、人と AI の協調を支える文脈認識の高度化、自己適応・自己最適化・自己修復を可能にするソフトウェア設計手法、さらに機械学習システムに対する高信頼な検証・テスト技術の開発を進めています。
+
+これらの研究成果は、以下のような応用領域への貢献を目指しています。
+
+- 自動運転システム
+- 人間支援ロボット
+- インタラクティブなビデオゲーム
+
+今後も、社会に安心と信頼をもたらす次世代ソフトウェアの実現に向けて、研究を深化させていきたいと考えています。
+
+## 経歴
+
+- 2025年4月〜現在：講師（任期付）、早稲田大学 高等研究所
+- 2025年4月〜現在：特別研究員、東京科学大学 情報理工学院
+- 2023年4月〜2025年3月：助手（常勤）、早稲田大学 基幹理工学部 情報理工学科
+- 2022年4月〜2023年3月：特別研究員（DC2）、日本学術振興会（JSPS）
+- 2021年4月〜2022年3月：特別研究員、科学技術振興機構（JST）
+- 2020年4月〜2023年3月：技術補佐（パート）、国立情報学研究所
+
+## 海外研究歴
+
+- 2026/01-2026/02：コンスタンツ大学（ドイツ）
+- 2025/01-2025/02：カーネギーメロン大学（米国）
+- 2024/02-2024/03：国立台北科技大学
+- 2023/12-2024/01：ZGC National Laboratory（中国）
+- 2023/08-2023/09：サンパウロ大学（ブラジル）
+- 2023/07-2023/08：西南大学（中国）
+- 2022/05-2022/12：北京大学（中国）
+
+## 学歴
+
+- 2021年4月〜2025年3月：博士（工学）、早稲田大学 情報理工・情報通信専攻
+- 2019年4月〜2021年3月：修士（工学）、早稲田大学 情報理工・情報通信専攻
+- 2015年4月〜2019年3月：学士（工学）、早稲田大学 情報理工学科（主専攻）、表現工学科（副専攻）
+- 2013年〜2015年：関西日本語学校
+- 2010年〜2013年：上海同済高校（中国）
+
+## 研究助成金（研究代表者中心）
+
+- 人間と自律システムの高度な協調作業のための作業配分と作業支援の推論フレームワーク、科研費（基盤研究C）、日本学術振興会（JSPS）、2025-2028年
+- プレイヤーの創造の喜びを護る：「生きたプレイヤー像」に基づく創造型ゲームテスト手法の開発、助成研究、公益財団法人 中山隼雄科学技術文化財団、2026-2027年
+- マルチモーダル情報と大規模言語モデルによる適応型インタラクティブ学習の創出、人工知能研究助成、公益財団法人 中部科学技術センター、2026-2027年
+- Early Bird Program、早稲田大学 理工学術院総合研究所、2024-2025年
+- 動的要求駆動と強化学習のハイブリッド実行時適応フレームワークの構築、特別研究員奨励費（DC2）、日本学術振興会（JSPS）、2022-2024年
+- Towards Maximizing Requirement Satisfaction through Runtime Verification and Graceful Degradation、次世代研究者挑戦的研究プログラム、科学技術振興機構（JST）、2021-2024年
+
+## 受賞歴
+
+- Best Presentation Award, IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI), 2025年6月
+- 若手研究者奨励賞、早稲田大学 理工学術院総合研究所、2025年3月
+- 2024 ACM TAAS Featured Article（編集委員会推薦の注目論文）、2025年3月
+- Best Paper Award, IEEE International Conference on Consumer Electronics Asia, 2024年11月
+- Best Presentation Award, IEEE International Conference on Industrial Engineering and Applications, 2022年4月
+- 専攻賞、早稲田大学 情報理工・情報通信専攻、2021年3月
+
+## 委員歴・学会活動
+
+- ゲスト編集者：*Electronics*、*Computers, Materials & Continua*
+- ジャーナル査読：TAAS、IJCHI、JIP、JSS、SR、*Humanities and Social Sciences Communications*
+- 学会プログラム委員会：SEAMS（2024-2025）、ACSOS（2024-2026）、APSEC 2025、SEAI 2025 など
+
+## 業績
+
+査読付き論文誌および国際会議プロシーディングは、英語版の [Publications]({{< relref "/publications.md" >}}) または [Researchmap](https://researchmap.jp/jialong?lang=ja) をご参照ください。
+
+国内会議や口頭発表も多数ありますが、この Hugo 版では保守性を優先し、主要業績は上記ページに集約しています。必要であれば、今後この日本語ページにも国内発表リストを追加できます。
+
+## 連絡先
+
+- Email: [lijialong@fuji.waseda.jp](mailto:lijialong@fuji.waseda.jp)
+- Google Scholar: <https://scholar.google.com/citations?user=EUqTNVcAAAAJ&hl=en>
+- ResearchGate: <https://www.researchgate.net/profile/Jialong-Li>
+- Researchmap: <https://researchmap.jp/jialong?lang=ja>
+- Waseda profile: <https://www.waseda.jp/inst/wias/other-en/2025/04/01/18456/>
+- Address: [Green Computing Systems Research and Development Center, Wasedamachi-27, Shinjuku-ku, Tokyo](https://www.waseda.jp/inst/gcs/en/access/)

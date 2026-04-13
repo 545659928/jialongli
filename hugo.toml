@@ -47,5 +47,5 @@ enableRobotsTXT = true
     weight = 40
   [[menu.main]]
     name = "日本語"
-    url = "https://researchmap.jp/jialong?lang=ja"
+    pageRef = "/jp"
     weight = 50
