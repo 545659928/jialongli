@@ -1,6 +1,7 @@
 ---
 title: Publications
 summary: Journal papers, refereed conference papers, and arXiv preprints.
+url: /publications/
 toc: true
 ---
 
