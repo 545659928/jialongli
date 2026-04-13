@@ -21,24 +21,6 @@
           {{ end }}
         </ul>
       </section>
-
-      <section class="content-block">
-        <h2>Research Focus</h2>
-        <ul>
-          {{ range .Params.focus_areas }}
-            <li><strong>{{ .name }}.</strong> {{ .text }}</li>
-          {{ end }}
-        </ul>
-      </section>
-
-      <section class="content-block">
-        <h2>Pages</h2>
-        <ul>
-          {{ range .Site.RegularPages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ with .Params.summary }}- {{ . }}{{ end }}</li>
-          {{ end }}
-        </ul>
-      </section>
     </article>
   </div>
 {{ end }}
