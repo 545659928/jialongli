@@ -1,14 +1,17 @@
 <aside class="sidebar-card">
   {{ $isJP := and .File (eq .File.BaseFileName "jp") }}
+  {{ $isZH := and .File (eq .File.BaseFileName "zh") }}
   {{ with .Site.Params.photo }}
     <img class="profile-photo" src="{{ . | relURL }}" alt="{{ $.Site.Params.name }}">
   {{ else }}
     <div class="profile-mark" aria-hidden="true">JL</div>
   {{ end }}
-  <h2 class="sidebar-name">{{ if $isJP }}李 家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
-  <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else }}李 家隆{{ end }}</p>
+  <h2 class="sidebar-name">{{ if $isJP }}李 家隆{{ else if $isZH }}李家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
+  <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else if $isZH }}Jialong Li{{ else }}李 家隆{{ end }}</p>
   {{ if $isJP }}
     <p class="sidebar-role"> 講師</p>
+  {{ else if $isZH }}
+    <p class="sidebar-role">讲师（独立PI）</p>
   {{ else }}
     <p class="sidebar-role">{{ .Site.Params.role }}</p>
     {{ with .Site.Params.role2 }}
@@ -24,6 +27,14 @@
       <li><a href="{{ .Site.Params.linkedin }}">LinkedIn</a></li>
       <li><a href="{{ .Site.Params.scholar }}">Google Scholar</a></li>
       <li><a href="{{ .Site.Params.researchmap }}">Researchmap（日本語）</a></li>
+      <li><a href="{{ .Site.Params.researchgate }}">ResearchGate</a></li>
+    {{ else if $isZH }}
+      <li>所在地：东京，日本</li>
+      <li>所属：早稻田大学 高等研究所</li>
+      <li><a href="{{ .Site.Params.emailLink }}">电子邮箱</a></li>
+      <li><a href="{{ .Site.Params.linkedin }}">LinkedIn</a></li>
+      <li><a href="{{ .Site.Params.scholar }}">Google Scholar</a></li>
+      <li><a href="{{ .Site.Params.researchmap }}">Researchmap</a></li>
       <li><a href="{{ .Site.Params.researchgate }}">ResearchGate</a></li>
     {{ else }}
       <li>{{ .Site.Params.location }}</li>

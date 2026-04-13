@@ -12,7 +12,6 @@ enableRobotsTXT = true
   organization = "Waseda University"
 
   email = "lijialong [at] fuji [dot] waseda [dot] jp"
-  emailLink = "mailto:lijialong@fuji.waseda.jp"
   scholar = "https://scholar.google.co.jp/citations?user=0OlQPhwAAAAJ&hl=ja"
   researchmap = "https://researchmap.jp/jialong?lang=en"
   researchgate = "https://www.researchgate.net/profile/Jialong-Li-6?ev=hdr_xprf"
@@ -49,3 +48,7 @@ enableRobotsTXT = true
     name = "日本語"
     url = "/jp/"
     weight = 50
+  [[menu.main]]
+    name = "中文"
+    url = "/zh/"
+    weight = 60

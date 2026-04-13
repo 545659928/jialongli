@@ -9,7 +9,8 @@ I am an Assistant Professor (PI) at the Waseda Institute for Advanced Study (WIA
 
 My research lies at the intersection of software engineering, artificial intelligence, and human-computer interaction, with a particular focus on human-centered, adaptive, and reliable software systems. I am especially interested in self-adaptive systems, software testing and verification, large language models for software engineering, and intelligent interactive systems.
 
-Before joining WIAS, I worked as a Research Associate in the Department of Computer Science and Engineering at Waseda University. During my doctoral studies, I was also supported by JSPS DC2 and JST SPRING fellowships. I received my Ph.D. in Computer Science from Waseda University under the supervision of Prof. Kenji Tei, Prof. Hironori Washizaki, and Prof. Shinichi Honiden.During my Ph.D., I was also a visiting researcher at Carnegie Mellon University, Peking University, and the University of Sao Paulo, where I worked with Prof. Eunsuk Kang, Prof. Zhi Jin, and Prof. Elisa Yumi Nakagawa.
+Before joining WIAS, I worked as a Research Associate in the Department of Computer Science and Engineering at Waseda University. During my doctoral studies, I was also supported by JSPS young scienctist and JST SPRING fellowships. I received my Ph.D. in Computer Science from Waseda University under the supervision of Prof. Kenji Tei, Prof. Hironori Washizaki, and Prof. Shinichi Honiden.
+During my Ph.D., I was also a visiting researcher at Carnegie Mellon University, Peking University, and the University of Sao Paulo, where I worked with Prof. Eunsuk Kang, Prof. Zhi Jin, and Prof. Elisa Yumi Nakagawa.
 
 ## Call for students
 
