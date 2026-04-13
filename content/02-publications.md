@@ -1,7 +1,7 @@
 ---
 title: Publications
 url: /publications/
-toc: true
+toc: false
 ---
 *`*` indicates the corresponding author (student co-supervision, etc.).*
 

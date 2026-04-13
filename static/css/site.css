@@ -113,6 +113,15 @@ a:hover {
   letter-spacing: 0.08em;
 }
 
+.profile-photo {
+  display: block;
+  width: 108px;
+  height: 108px;
+  margin-bottom: 18px;
+  border: 1px solid var(--line);
+  object-fit: cover;
+}
+
 .sidebar-name {
   margin: 0 0 6px;
   font-size: 1.5rem;

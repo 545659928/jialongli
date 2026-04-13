@@ -12,15 +12,6 @@
       <section class="prose content-block">
         {{ .Content }}
       </section>
-
-      <section class="content-block">
-        <h2>Current Positions</h2>
-        <ul>
-          {{ range .Params.positions }}
-            <li>{{ . }}</li>
-          {{ end }}
-        </ul>
-      </section>
     </article>
   </div>
 {{ end }}

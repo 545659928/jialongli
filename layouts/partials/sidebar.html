@@ -1,6 +1,10 @@
 <aside class="sidebar-card">
   {{ $isJP := and .File (eq .File.BaseFileName "jp") }}
-  <div class="profile-mark" aria-hidden="true">JL</div>
+  {{ with .Site.Params.photo }}
+    <img class="profile-photo" src="{{ . | relURL }}" alt="{{ $.Site.Params.name }}">
+  {{ else }}
+    <div class="profile-mark" aria-hidden="true">JL</div>
+  {{ end }}
   <h2 class="sidebar-name">{{ if $isJP }}李 家隆{{ else }}{{ .Site.Params.name }}{{ end }}</h2>
   <p class="sidebar-name-sub">{{ if $isJP }}リ　カリュウ{{ else }}李 家隆{{ end }}</p>
   {{ if $isJP }}

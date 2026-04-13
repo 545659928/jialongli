@@ -1,5 +1,7 @@
 ---
 title: Home
+url: /home/
+toc: false
 ---
 I am an Assistant Professor and Principal Investigator at the Waseda Institute for Advanced Study, Waseda University, and a special-appointment researcher at the Institute of Science Tokyo. My research envisions a future of software characterized by SHARE: Software with Humanity, Adaptability, and Reliability.
 Currently, I lead a diverse portfolio of research initiatives across Software Engineering, Artificial Intelligence, and Human-Computer Interaction. To promote humanity, we integrate Diversity, Equity, and Inclusion principles into software design and leverage large language models to enhance system transparency and accessibility. To improve adaptability, we use reinforcement learning, search-based software engineering, and optimization algorithms to build resilient autonomous systems capable of dynamic controller synthesis and graceful degradation. To ensure reliability, we combine formal methods with large language models for automated testing, verification, and AI-enabled software quality assurance.
@@ -13,11 +15,3 @@ I am looking for self-motivated Master's and Ph.D. students. While I cannot offi
 中文: 目前欢迎有研究热情的硕士和博士申请者联系我。虽然我目前不直接在早稻田大学招生，但可以推荐你申请东京科学大学相关项目。
 
 I also welcome interns and visiting students for both online and on-site collaboration. For exceptional candidates, funding may be available to support research visits to Japan.
-
-## Primary Research Interests
-
-My research interests focus on enhancing the humanization, adaptability, and reliability of software systems.
-
-- Humanization: improving human context awareness, conditional awareness, and interpretable interaction in AI-supported systems.
-- Adaptability and antifragility: model-based, control-theoretic, optimization-based, and LLM-based approaches for runtime adaptation.
-- Reliability: testing, verification, and quality assurance for both logic-based and learning-enabled systems.

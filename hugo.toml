@@ -6,6 +6,7 @@ enableRobotsTXT = true
 [params]
   author = "Jialong Li"
   name = "Jialong Li"
+  photo = "images/profile/jialong.png"
   role = "Assistant Professor"
   location = "Tokyo, Japan"
   organization = "Waseda University"
