@@ -1,46 +1,44 @@
 {{ define "main" }}
-  <section class="hero">
-    <div class="hero-copy">
-      <p class="eyebrow">{{ .Params.role }}</p>
-      <h1>{{ .Params.name }}</h1>
-      <p class="lead">{{ .Params.tagline }}</p>
-      <div class="hero-links">
-        <a class="button primary" href="mailto:{{ .Params.email_link }}">{{ .Params.email }}</a>
-        <a class="button" href="{{ .Site.Params.profile }}">Waseda Profile</a>
-        <a class="button" href="{{ .Site.Params.scholar }}">Google Scholar</a>
-        <a class="button" href="{{ .Site.Params.researchmap }}">Researchmap</a>
-      </div>
-    </div>
-    <aside class="hero-card">
-      <h2>Current Positions</h2>
-      <ul>
-        {{ range .Params.positions }}
-          <li>{{ . }}</li>
-        {{ end }}
-      </ul>
-    </aside>
-  </section>
+  <div class="main-grid">
+    {{ partial "sidebar.html" . }}
 
-  <section class="panel prose">
-    {{ .Content }}
-  </section>
+    <article class="content-column">
+      <header class="page-header">
+        <h1>{{ .Params.name }}</h1>
+        <p class="lead">{{ .Params.role }}</p>
+        <p class="tagline">{{ .Params.tagline }}</p>
+      </header>
 
-  <section class="grid-3">
-    {{ range .Params.focus_areas }}
-      <article class="panel compact">
-        <p class="mini-label">{{ .name }}</p>
-        <p>{{ .text }}</p>
-      </article>
-    {{ end }}
-  </section>
+      <section class="prose content-block">
+        {{ .Content }}
+      </section>
 
-  <section class="grid-3">
-    {{ range .Site.RegularPages }}
-      <article class="panel compact">
-        <p class="mini-label">{{ .Title }}</p>
-        <p>{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }}</p>
-        <a class="text-link" href="{{ .RelPermalink }}">Open page</a>
-      </article>
-    {{ end }}
-  </section>
+      <section class="content-block">
+        <h2>Current Positions</h2>
+        <ul>
+          {{ range .Params.positions }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+
+      <section class="content-block">
+        <h2>Research Focus</h2>
+        <ul>
+          {{ range .Params.focus_areas }}
+            <li><strong>{{ .name }}.</strong> {{ .text }}</li>
+          {{ end }}
+        </ul>
+      </section>
+
+      <section class="content-block">
+        <h2>Pages</h2>
+        <ul>
+          {{ range .Site.RegularPages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ with .Params.summary }}- {{ . }}{{ end }}</li>
+          {{ end }}
+        </ul>
+      </section>
+    </article>
+  </div>
 {{ end }}

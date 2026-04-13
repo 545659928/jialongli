@@ -1,22 +1,25 @@
 {{ define "main" }}
-  <article class="page">
-    <header class="page-header">
-      <p class="eyebrow">Markdown-managed page</p>
-      <h1>{{ .Title }}</h1>
-      {{ with .Params.summary }}
-        <p class="lead">{{ . }}</p>
+  <div class="main-grid">
+    {{ partial "sidebar.html" . }}
+
+    <article class="content-column">
+      <header class="page-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.summary }}
+          <p class="lead">{{ . }}</p>
+        {{ end }}
+      </header>
+
+      {{ if .Params.toc }}
+        <aside class="toc">
+          <h2>On This Page</h2>
+          {{ .TableOfContents }}
+        </aside>
       {{ end }}
-    </header>
 
-    {{ if .Params.toc }}
-      <aside class="toc panel compact">
-        <h2>On This Page</h2>
-        {{ .TableOfContents }}
-      </aside>
-    {{ end }}
-
-    <section class="panel prose">
-      {{ .Content }}
-    </section>
-  </article>
+      <section class="prose content-block">
+        {{ .Content }}
+      </section>
+    </article>
+  </div>
 {{ end }}

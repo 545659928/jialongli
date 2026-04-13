@@ -1,0 +1,16 @@
+<aside class="sidebar-card">
+  <div class="profile-mark" aria-hidden="true">JL</div>
+  <h2 class="sidebar-name">{{ .Site.Params.name }}</h2>
+  <p class="sidebar-role">{{ .Site.Params.role }}</p>
+  <p class="sidebar-bio">{{ .Site.Params.shortBio }}</p>
+
+  <ul class="sidebar-list">
+    <li>{{ .Site.Params.location }}</li>
+    <li>{{ .Site.Params.organization }}</li>
+    <li><a href="{{ .Site.Params.emailLink }}">{{ .Site.Params.email }}</a></li>
+    <li><a href="{{ .Site.Params.profile }}">Waseda Profile</a></li>
+    <li><a href="{{ .Site.Params.scholar }}">Google Scholar</a></li>
+    <li><a href="{{ .Site.Params.researchmap }}">Researchmap</a></li>
+    <li><a href="{{ .Site.Params.researchgate }}">ResearchGate</a></li>
+  </ul>
+</aside>

@@ -5,6 +5,11 @@ enableRobotsTXT = true
 
 [params]
   author = "Jialong Li"
+  name = "Jialong Li"
+  role = "Assistant Professor (fixed-term, PI), Waseda Institute for Advanced Study, Waseda University"
+  shortBio = "Research in Software Engineering, Artificial Intelligence, and Human-Computer Interaction."
+  location = "Tokyo, Japan"
+  organization = "Waseda University / Institute of Science Tokyo"
   description = "Personal academic website for Jialong Li, covering research, publications, and CV."
   email = "lijialong [at] fuji [dot] waseda [dot] jp"
   emailLink = "mailto:lijialong@fuji.waseda.jp"
