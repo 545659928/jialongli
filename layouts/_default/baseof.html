@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+    <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="brand" href="{{ "/" | relURL }}">
+          <span class="brand-title">{{ .Site.Title }}</span>
+          <span class="brand-subtitle">Software Engineering · AI · HCI</span>
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}" {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}class="is-active"{{ end }}>{{ .Name }}</a>
+          {{ end }}
+        </nav>
+      </header>
+
+      <main class="site-main">
+        {{ block "main" . }}{{ end }}
+      </main>
+
+      <footer class="site-footer">
+        <div class="footer-grid">
+          <div>
+            <p class="mini-label">Contact</p>
+            <p><a href="{{ .Site.Params.emailLink }}">{{ .Site.Params.email }}</a></p>
+            <p><a href="{{ .Site.Params.map }}">Address</a>: {{ .Site.Params.address }}</p>
+          </div>
+          <div>
+            <p class="mini-label">Profiles</p>
+            <p>
+              <a href="{{ .Site.Params.profile }}">Waseda Profile</a> ·
+              <a href="{{ .Site.Params.scholar }}">Google Scholar</a> ·
+              <a href="{{ .Site.Params.researchmap }}">Researchmap</a> ·
+              <a href="{{ .Site.Params.researchgate }}">ResearchGate</a>
+            </p>
+          </div>
+        </div>
+        <p>{{ .Site.Title }} · Built with Hugo and deployed on GitHub Pages.</p>
+      </footer>
+    </div>
+  </body>
+</html>

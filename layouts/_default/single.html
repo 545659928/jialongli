@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <article class="page">
+    <header class="page-header">
+      <p class="eyebrow">Markdown-managed page</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.summary }}
+        <p class="lead">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    {{ if .Params.toc }}
+      <aside class="toc panel compact">
+        <h2>On This Page</h2>
+        {{ .TableOfContents }}
+      </aside>
+    {{ end }}
+
+    <section class="panel prose">
+      {{ .Content }}
+    </section>
+  </article>
+{{ end }}

@@ -1,0 +1,84 @@
+---
+title: CV
+summary: Academic appointments, education, funding, awards, service, and teaching.
+toc: true
+---
+
+## Work Experience
+
+- 2025-present: Assistant Professor (fixed-term), Waseda Institute for Advanced Study, Waseda University
+  - 2026/01-2026/02: Zukunftskolleg Visiting Fellow, University of Konstanz, Germany
+- 2025-present: Research Fellow, School of Computing, Institute of Science Tokyo
+- 2023-2025: Research Associate, Department of Computer Science and Engineering, Waseda University
+- 2022-2023: Doctoral Research Fellow, JSPS
+- 2021-2022: Doctoral Research Fellow, JST
+- 2020-2023: Operations Engineer (part-time), National Institute of Informatics
+
+## Education
+
+- 2021-2025: Ph.D. in Computer Science, Waseda University, Japan
+  - Supervised by Prof. Kenji Tei, Prof. Hironori Washizaki, and Prof. Shinichi Honiden
+  - 2025/01-2025/02: Carnegie Mellon University, USA
+  - 2024/02-2024/03: National Taipei University of Technology
+  - 2023/12-2024/01: ZGC National Laboratory, China
+  - 2023/08-2023/09: Universidade de Sao Paulo, Brazil
+  - 2023/07-2023/08: Southwest University, China
+  - 2022/05-2022/12: Peking University, China
+- 2019-2021: M.Sc. in Computer Science, Waseda University, Japan
+- 2015-2019: B.Sc. in Computer Science, Waseda University, Japan
+  - Minor in Intermedia Art and Science (Psychology and Multimedia Content)
+- 2013-2015: KANSAI Japanese Language School, Japan
+- 2010-2013: Shanghai Tongji High School, China
+
+## Research Funding
+
+- PI, *Reasoning Framework for Task Allocation and Assistance in Human-Autonomous System Collaboration*, Grants-in-Aid for Scientific Research (C), JSPS, 2025-2028
+- PI, *Adaptive Interactive Learning Framework with Multimodal Information and Large Language Models*, Artificial Intelligence Research Grant, Public Foundation of the Chubu Science and Technology Center, 2026-2027
+- PI, *Safeguarding the Joy of Player Creativity: A Creative Game Testing via Living Player Personas*, Nakayama Foundation for Science & Technology, 2026-2027
+- Co-Investigator, *Runtime Model Framework for Maximizing Functional Continuity under Unanticipated Environmental Changes*, Grants-in-Aid for Scientific Research (B), JSPS, 2024-2027
+- PI, *Early Bird Program*, Waseda Research Institute for Science and Engineering, 2024-2025
+- PI, *Hybrid Runtime Adaptation Combining Requirement-driven Adaptation and Reinforcement Learning*, Research Fellowships for Young Scientists (DC2), JSPS, 2022-2024
+- PI, *Towards Maximizing Requirement Satisfaction through Runtime Verification and Graceful Degradation*, W-SPRING, JST, 2021-2024
+- Ushio Foundation Scholarship, 2021-2024
+
+## Awards
+
+- Best Presentation Award, IEEE International Conference on Software Engineering and Artificial Intelligence, 2025.6
+- Young Scientist Award, Waseda Research Institute for Science and Engineering, Waseda University, 2025.3
+- Best Paper Award, IEEE International Conference on Consumer Electronics Asia, 2024.11
+- Best Presentation Award, IEEE International Conference on Industrial Engineering and Applications, 2022.4
+- CSCE Department Award, Waseda University, 2021.3
+
+## Academic Services
+
+### Reviewer and Editorial Roles
+
+- Guest Editor: *Electronics* and *Computers, Materials & Continua* special issues
+- Journal reviewer: TAAS, IJCHI, JIP, JSS, SR, and *Humanities and Social Sciences Communications*
+
+### Conference Program Committee
+
+- SEAMS: PC (2024-2025)
+- ACSOS: PC (2024-2025), Registration Chair (2025), Proceedings Chair (2026)
+- APSEC: PC (2025)
+- SEAI: PC (2025)
+- FormaliSE: Artifact PC (2025)
+
+## Teaching
+
+U = undergraduate, G = graduate.
+
+### Courses
+
+- [G] Software Quality Assurance (Japanese-English hybrid), Waseda University, 2026
+- [U2] Introduction to C Programming, Waseda University, 2026
+- [U3] CSCE Laboratory - Microcomputers, Waseda University, 2026
+- [U2] Laser and Holography (Japanese), Waseda University, 2024
+- [U3] Introduction to Microscopes (Japanese), Waseda University, 2023
+- [U2] Digital Circuit (Japanese), Waseda University, 2023-2024
+
+### Teaching Assistant
+
+- [U1] Introduction to Java, Waseda University, 2019-2020
+- [U2] Algorithms and Data Structures, Waseda University, 2021-2023
+- [G] Autonomous Agent Systems, Waseda University, 2021-2023
