@@ -1,7 +1,7 @@
 ---
 title: Research
 url: /research/
-toc: true
+toc: false
 ---
 ## Our Vision
 

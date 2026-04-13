@@ -5,7 +5,7 @@ toc: false
 ---
 ## About Me
 
-I am an Assistant Professor and Principal Investigator at the Waseda Institute for Advanced Study (WIAS), Waseda University, and a concurrent Research Fellow at the School of Computing, Institute of Science Tokyo.
+I am an Assistant Professor (PI) at the Waseda Institute for Advanced Study (WIAS), Waseda University, and a concurrent Research Fellow at the School of Computing, Institute of Science Tokyo.
 My research lies at the intersection of software engineering, artificial intelligence, and human-computer interaction, with a particular focus on human-centered, adaptive, and reliable software systems. I am especially interested in self-adaptive systems, software testing and verification, large language models for software engineering, and intelligent interactive systems.
 Before joining WIAS, I worked as a Research Associate in the Department of Computer Science and Engineering at Waseda University. During my doctoral studies, I was also supported by JSPS DC2 and JST SPRING fellowships. I received my Ph.D. in Computer Science from Waseda University under the supervision of Prof. Kenji Tei, Prof. Hironori Washizaki, and Prof. Shinichi Honiden.
 
