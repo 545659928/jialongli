@@ -1,9 +1,8 @@
 ---
-title: People
-url: /students/
+title: Members
+url: /members/
 toc: false
 ---
-## On-going
 
 ### PhD Program
 
@@ -29,8 +28,11 @@ toc: false
 ### Visiting
 1. None
 
-## Graduated
+-----
+
+## Previous member
 <!-- 已经毕业的值显示毕业年份。比如2024.4-2026.3写2026 -->
+Year shows the graducation year
 
 ### Master
 

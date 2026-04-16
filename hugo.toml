@@ -41,8 +41,8 @@ enableRobotsTXT = true
     url = "/publications/"
     weight = 30
   [[menu.main]]
-    name = "Students"
-    url = "/students/"
+    name = "Members"
+    url = "/members/"
     weight = 40
   [[menu.main]]
     name = "CV"
