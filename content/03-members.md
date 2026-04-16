@@ -11,7 +11,7 @@ toc: false
 3. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), ScienceTokyo, 2026.4-, Industry PhD (Woven By Toyota)
 4. 🇨🇳 Zhiyao Wang (w/ Tatsuhiro Tsuchiya), OsakaU, 2025.10-
 
-### Master
+### Master Program
 
 1. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10-
 2. 🇯🇵 Yuki Tsuzuku (w/ Kenji Tei), ScienceTokyo, 2026.4-
@@ -20,7 +20,7 @@ toc: false
 5. 🇯🇵 Ryoya Koyama (w/ Kenji Tei), ScienceTokyo, 2025.4-
 6. 🇯🇵 Ryota Aoyagi (w/ Kenji Tei), ScienceTokyo, 2025.4-
 
-### Bachelor
+### Bachelor Program
 
 1. 🇯🇵 Tsubasa Ogasawara (w/ Kenji Tei), ScienceTokyo, 2026.4-
 2. 🇨🇳 Enhong Mu (w/ Mingyue Zhang), SWU, 2024.9-2026.6
@@ -30,7 +30,7 @@ toc: false
 
 -----
 
-## Previous member
+## Previous Members
 <!-- 已经毕业的值显示毕业年份。比如2024.4-2026.3写2026 -->
 Year shows the graducation year
 
@@ -38,7 +38,7 @@ Year shows the graducation year
 
 1. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2026
 2. 🇨🇳 Yitong Shi (w/ Kenji Tei), ScienceTokyo, 2026
-3. 🇯🇵 Ayumu Takai (w/ Kenji Tei), ScienceTokyo, 2026
+3. 🇯🇵 Ayumi Takai (w/ Kenji Tei), ScienceTokyo, 2026
 5. 🇨🇳 Chenyu Hu (w/ Zheng Yang, Mingyue Zhang), SWU, 2025
 6. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2024
 7. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2024
