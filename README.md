@@ -7,8 +7,9 @@ This repository contains a Hugo-based personal website managed with Markdown and
 - `content/_index.md`: homepage
 - `content/01-research.md`: research page
 - `content/02-publications.md`: publications page
-- `content/03-cv.md`: CV page
-- `content/04-jp.md`: Japanese page
+- `content/03-students.md`: students page
+- `content/04-cv.md`: CV page
+- `content/05-jp.md`: Japanese page
 - `layouts/`: Hugo templates
 - `static/css/site.css`: site styles
 - `hugo.toml`: site configuration
@@ -21,8 +22,9 @@ Most edits only require changing Markdown files in `content/`.
 - Update the homepage in `content/_index.md`
 - Update research information in `content/01-research.md`
 - Add or revise publications in `content/02-publications.md`
-- Update CV information in `content/03-cv.md`
-- Update Japanese content in `content/04-jp.md`
+- Update students information in `content/03-students.md`
+- Update CV information in `content/04-cv.md`
+- Update Japanese content in `content/05-jp.md`
 
 ## How To Update The Sidebar Or Navigation
 
