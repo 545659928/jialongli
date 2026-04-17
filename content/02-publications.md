@@ -40,13 +40,6 @@ toc: false
 23. Jinyu Cai, Jialong Li, Mingyue Zhang, Kenji Tei, "Value Iteration Networks with Gated Summarization Module", *IEEE Access*, Vol. 11, pp. 60407-60420, 2023.6. DOI: 10.1109/ACCESS.2023.3286729.
 24. Jialong Li, Kenji Tei, "Efficient Difference Analysis of Guaranteeable Requirements for Fault-tolerant Self-adaptation", *Journal of Information Processing*, Vol. 31, pp. 186-195, 2023.3. DOI: 10.2197/ipsjjip.31.186.
 
-* Minami Yoda, Jialong Li, Yasuyuki Tahara, Yuichi Sei, Yutaka Matsuno, Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection, Proceedings of the Institute of Statistical Mathematics, 2026 (Original Japanese: 依田 みなみ, 李 家隆, 田原 康之, 清 雄一, 松野 裕, 「LLMを用いた逆コンパイルにおける実行可能性及びプログラム等価性の統計的解析」, 数理統計, 2026)
-* 
-
-
-* Minami Yoda, Jialong Li, Yasuyuki Tahara, Yuichi Sei, Yutaka Matsuno, Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection, Proceedings of the Institute of Statistical Mathematics, 2026 (Original Japanese: 依田 みなみ, 李 家隆, 田原 康之, 清 雄一, 松野 裕, 「LLMを用いた逆コンパイルにおける実行可能性及びプログラム等価性の統計的解析」, 数理統計, 2026)
-* 
-
 
 ## Refereed Conference Proceedings Paper
 
