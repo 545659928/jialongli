@@ -3,11 +3,15 @@ title: Research
 url: /research/
 toc: false
 ---
-## Our Vision
+## Our Research Vision
 
-We pursue research under the vision of **SHARE**: **S**oftware with **H**umanity, **A**daptability, and **RE**liability.
+We pursue research under the vision of **SHARE**: **S**oftware with **H**umanity, **A**daptability, and **Re**liability.
 
-TBD...
+**Humanity.** How can we encourage better acceptance of AI-driven autonomous software among end users? We believe the solution lies in enhancing software user-friendliness. Key research questions include: How can we improve system transparency and enhance user control? Especially as system autonomy increases, how should systems communicate with users more effectively to boost trust and mitigate the responsibility gap?
+
+**Adaptability.** Given the increasingly complex and dynamic nature of modern software operating environments, software must be capable of responding flexibly to various changes. We are dedicated to developing software that can self-adapt, self-optimize, self-repair, and self-evolve to meet varying user needs and operating environments. Key research questions include: How can we implement mechanisms for self-adaptation, optimization, repair, and evolution? How can we coordinate and synchronize different aspects of software, such as ensuring that when software requirements change, the architecture and behavior evolve accordingly?
+
+**Reliability.** Unlike adaptability, reliable software is primarily concerned with the development phase. Our focus spans multiple perspectives, including software design, testing, and verification, to ensure software reliability. Main research questions include: How can systems be designed to be robust and resilient against attacks or noise? How can we efficiently conduct formal verification of system correctness, for example by decomposing problems appropriately and designing the right granularity of analysis? How can we detect more system bugs at lower cost during testing?
 
 ## Projects
 
