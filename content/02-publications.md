@@ -12,6 +12,10 @@ toc: false
 3. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models", arXiv preprint arXiv:2512.00560, 2025.12. [https://arxiv.org/abs/2512.00560](https://arxiv.org/abs/2512.00560)
 4. Yusei Ishimizu, Takuto Yamauchi, Sinan Chen, Jinyu Cai, <u>Jialong Li</u>*, Kenji Tei, "Automatic Syntax Error Repair for Discrete Controller Synthesis using Large Language Model", arXiv preprint arXiv:2512.07261, 2025.12. [https://arxiv.org/abs/2512.07261](https://arxiv.org/abs/2512.07261)
 5. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li</u>, "Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning", arXiv preprint arXiv:2512.12706, 2025.12. [https://arxiv.org/abs/2512.12706](https://arxiv.org/abs/2512.12706)
+6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models", arXiv preprint arXiv:2603.23828, 2026.3. [https://arxiv.org/abs/2603.23828](https://arxiv.org/abs/2603.23828)
+7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation", arXiv preprint, 2026.
+8. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "Large Language Models in Model-Driven Engineering: A Systematic Mapping Study", arXiv preprint, 2026.
+9. Zhiyao Wang, <u>Jialong Li</u>, Xiujing Guo, Tatsuhiro Tsuchiya, "From Noisy Feedback to Trustworthy Issue Specifications: An Agent-Governed Retrieval-Augmented Generation Approach", preprint, 2026.2. DOI: 10.21203/rs.3.rs-8889312/v1.
 
 ## Journal
 
