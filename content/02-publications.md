@@ -20,7 +20,7 @@ toc: false
 
 ## Journal
 
-1. Chenyu Hu, Qiming Hu, Sinan Chen, Nianyu Li, Mingyue Zhang, <u>Jialong Li</u>*, "FAROS: Federated Learning with Adaptive Scaling and Robust Clustering against Backdoor Attacks", *Journal of Supercomputing*, 2026.
+1. Chenyu Hu, Qiming Hu, Sinan Chen, Nianyu Li, Mingyue Zhang, <u>Jialong Li</u>*, "Faros: robust federated learning with adaptive scaling against backdoor attacks", *The Journal of Supercomputing*, 2026.4.
 2. Mingyue Zhang, Chenyu Hu, Xuelian Cao, Atul Sajjanhar, Zheng Yang, Muneeb Ul Hassan, Zhi Jin, <u>Jialong Li</u>, "EndPCA: Ensemble Defense with Provably Convergent Aggregation Against Poisoning Attacks in Federated Learning", *IEEE Transactions on Information Forensics and Security*, 2026.
 3. Yan Zhang, Difeng Cao, Hanchao Hou, Mengjian Hu, <u>Jialong Li</u>, Pei Sun, Shiguang Ni, "Enhancing ADHD Early Screening with a Mobile Serious Game: A Combined Continuous Screening Paradigm", *IEEE Transactions on Games*, 2026.
 4. Minami Yoda, <u>Jialong Li</u>, Yasuyuki Tahara, Yuichi Sei, Yutaka Matsuno, Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection, Journal of the Institute of Statistical Mathematics, 2026
