@@ -4,18 +4,19 @@ url: /publications/
 toc: false
 ---
 *`*` indicates the corresponding author (student co-supervision, etc.).*
+<!-- Instruction to LLM: No need to update the number before items -->
 
 ## arXiv
 
-1. Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, <u>Jialong Li*</u>, Kenji Tei, "Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms", arXiv preprint arXiv:2502.19193, 2025.2. [https://arxiv.org/abs/2502.19193](https://arxiv.org/abs/2502.19193)
-2. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements", arXiv preprint arXiv:2511.13069, 2025.11. [https://arxiv.org/abs/2511.13069](https://arxiv.org/abs/2511.13069)
-3. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models", arXiv preprint arXiv:2512.00560, 2025.12. [https://arxiv.org/abs/2512.00560](https://arxiv.org/abs/2512.00560)
-4. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li*</u>, "Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning", arXiv preprint arXiv:2512.12706, 2025.12. [https://arxiv.org/abs/2512.12706](https://arxiv.org/abs/2512.12706)
-5. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts", arXiv preprint arXiv:2602.19244, 2026.2. [https://arxiv.org/abs/2602.19244](https://arxiv.org/abs/2602.19244)
-6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models", arXiv preprint arXiv:2603.23828, 2026.3. [https://arxiv.org/abs/2603.23828](https://arxiv.org/abs/2603.23828)
-7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation", arXiv preprint arXiv:2604.23124, 2026.4. [https://arxiv.org/abs/2604.23124](https://arxiv.org/abs/2604.23124)
+1. Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, <u>Jialong Li*</u>, Kenji Tei, "[Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms](https://arxiv.org/abs/2502.19193)", arXiv preprint arXiv:2502.19193, 2025.2.
+2. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "[Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements](https://arxiv.org/abs/2511.13069)", arXiv preprint arXiv:2511.13069, 2025.11.
+3. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "[SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models](https://arxiv.org/abs/2512.00560)", arXiv preprint arXiv:2512.00560, 2025.12.
+4. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li*</u>, "[Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.12706)", arXiv preprint arXiv:2512.12706, 2025.12.
+5. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
+6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "[Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models](https://arxiv.org/abs/2603.23828)", arXiv preprint arXiv:2603.23828, 2026.3.
+7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "[ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation](https://arxiv.org/abs/2604.23124)", arXiv preprint arXiv:2604.23124, 2026.4.
 8. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "Large Language Models in Model-Driven Engineering: A Systematic Mapping Study", arXiv preprint, 2026.
-9.  Zhiyao Wang, <u>Jialong Li</u>, Xiujing Guo, Tatsuhiro Tsuchiya, "From Noisy Feedback to Trustworthy Issue Specifications: An Agent-Governed Retrieval-Augmented Generation Approach", preprint, 2026.2. DOI: 10.21203/rs.3.rs-8889312/v1.
+9.  Zhiyao Wang, <u>Jialong Li</u>, Xiujing Guo, Tatsuhiro Tsuchiya, "[From Noisy Feedback to Trustworthy Issue Specifications: An Agent-Governed Retrieval-Augmented Generation Approach](https://doi.org/10.21203/rs.3.rs-8889312/v1)", preprint, 2026.2.
 
 ## Journal
 1. Yusei Ishimizu, Takuto Yamauchi, Sinan Chen, Jinyu Cai,  <u>Jialong Li*</u>, Kenji Tei, "Automatic Syntax Error Repair for Discrete Controller Synthesis using Large Language Model", IPSJ Journal, 2026
@@ -114,35 +115,33 @@ toc: false
 65. <u>Jialong Li</u>', Kazuya Aizawa, Kenji Tei, Shinichi Honiden, "Efficient Difference Analysis Algorithm for Runtime Requirement Degradation under System Functional Fault", *18th IEEE International Conference on Embedded and Ubiquitous Computing (EUC)*, pp. 33-40, 2020.12.
 66. <u>Jialong Li</u>, Kenji Tei, Shinichi Honiden, "Identifying Achievable Goals for Adaptive Replanning against Runtime Environment Change", *20th International Conference on Intelligent Systems Design and Applications (ISDA)*, pp. 945-955, 2020.12.
 
-## Other Items
+## Other Items (Domestic Japanese conferences, Oral/Poster presentations)
 
-Domestic Japanese conferences, Oral/Poster presentations
-
-1. 小笠原 翼, 依田 みなみ, `<u>`李 家隆 `</u>`, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1-6, 2026.7
-2. 石水 優成, 生方 寿英, `<u>`李 家隆 `</u>`, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1-6, 2026.7
-3. 小山 諒也, 王 志堯, `<u>`李 家隆 `</u>`, 土屋 達弘, 鄭 顕志, "ユーザレビューに基づくアクセシビリティ違反レポートの理解支援手法", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1-6, 2026.7
-4. 青柳 龍太, 范 優美, `<u>`李 家隆 `</u>`, 鄭 顕志, "オープンソースLLMエージェントフレームワークにおける権限管理メカニズムの実証調査", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1-6, 2026.7
-5. 品田 名留, 片岡 葉奈, `<u>`李 家隆 `</u>`, 依田 みなみ, 松野 裕, "生成AIプログラミングにおけるプロンプト分析ツール", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1-6, 2026.3
-6. 石水 優成, 生方 寿英, 牟 恩弘, `<u>`李 家隆 `</u>`, 鄭 顕志, "オンザフライ離散制御器合成における強化学習探索方策の学習環境と汎化性能の評価", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1--5, 2026.3
-7. 小山 諒也, 王 志堯, `<u>`李 家隆 `</u>`, 鄭 顕志, "エッジ環境を想定した LLM 生成計画への LTL 安全性検証の適用と評価", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1--5, 2026.3
-8. 胡 晨玉, 石水 優成, `<u>`李 家隆 `</u>`, 鄭 顕志, "動的ポイズニング攻撃に対するスライディングウィンドウ上側信頼限界を用いた連合学習の適応的防御", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), pp. 1--4, 2026.3
-9. 石水 優成, `<u>`李 家隆 `</u>`, 鄭 顕志, "LLMを用いた離散制御器合成のための制御問題の自動修正", 22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2025.11
-10. Chenyu Hu, `<u>`Jialong Li `</u>`, Kenji Tei, "Toward Robust Federated Learning via Runtime Adaptation of Aggregation", 22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2025.11
-11. Toshihide Ubukata, Enhong Mu, Takuto Yamauch, Mingyue Zhang, `<u>`Jialong Li `</u>`, and Kenji Tei, "Enhancing Controller Synthesis via Graph-Based Reinforcement Learning", IPSJ/SIGSE Software Engineering Symposium (SES2025), poster session, 2025.9
-12. `<u>`Jialong Li `</u>`, Shogo Morita, Wei Wang, Yan Zhang, Takuto Yamauchi, Kenji Tei, "Global Progress or Local Intent? Exploring Human Perceptions of Communication Strategies in Human-Robot Collaboration", IEICE Transactions on Information and Systems (Letter paper), Vol. E108.D, Issue 10, pp. 1260-1264, 2025.10, DOI: 10.1587/transinf.2025EDL8017 (査読付き)
-13. 蔡 金雨, `<u>`李 家隆 `</u>`, 鄭 顕志, "ソーシャルメディア規制回避に向けた言語適応の動態分析：LLMベースのマルチエージェントシミュレーションによる検証", 21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2024.11
-14. Mingyue Zhang, `<u>`Jialong Li `</u>`, Nianyu Li, "Large Language Model-Based Automated Smoke Testing Framework for Role-Playing Game Quests (in Chinese)", CCF ChinaSoft 2024, 2024.11
-15. `<u>`李 家隆 `</u>`, 鄭 顕志, "離散制御器による経路探索ロボットの開発", 21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2024.11
-16. 石水 優成, `<u>`李 家隆 `</u>`, 鄭 顕志, "LLMを用いた適応ルールの自動最適化", 21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2024.11
-17. 森田尚吾, `<u>`李 家隆 `</u>`, 鄭 顕志, "色覚異常者のためのLLMを使用したARにおける文字サポート", 21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2024.11
-18. 阿部 凌太郎, `<u>`李 家隆 `</u>`*, 蔡 金雨, 本位田 真一, 鄭 顕志, "パーソナライズされたシールディングを用いた自動運転における知覚安全性向上のためのアプローチ", 電子情報通信学会 知能ソフトウェア工学研究会 (KBSE), 2024年3月
-19. Tianchen Wang, `<u>`Jialong Li `</u>`, Kenji Tei, "Sensor Fusion Based 3d Object Detection with Self-adaptive Depth Completion in the Autonomous Driving Scenario", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-20. Qinxin Chen, `<u>`Jialong Li `</u>`, Kenji Tei, "A TOR delivering method that promotes situation awareness", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-21. Jinyu Cai, `<u>`Jialong Li `</u>`, Kenji Tei, "Value Iteration Residual Network", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-22. Zhenyu Mao, `<u>`Jialong Li `</u>`, Kenji Tei, "The User Is King: Personalized Trip Recommendation with User Preference Guarantee", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-23. Senthilvelan Prasanth, `<u>`Jialong Li `</u>`, Kenji Tei, "Safe Reinforcement Learning via Hierarchical Adaptive Shielding", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-24. Zhiwei Shen, `<u>`Jialong Li `</u>`, Kenji Tei, "Safe Multi-Agent Reinforcement Learning via Distributed Adaptive Shielding", The 19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS), 2022.11
-25. Jiali Ling, `<u>`Jialong Li `</u>`, Kenji Tei, Shinichi Honiden, "Towards Personalized Autonomous Driving: Deep Reinforcement Learning from Human Feedback", Symposium on Multi Agent Systems for Harmonization 2021 (SMASH21 Summer Symposium), pp. 1-3, 2021.9
-26. `<u>`Jialong Li `</u>`, "Analysis of changed game space for ensuring safety properties at runtime", The 8th Asian Workshop on Advanced Software Engineering (AWASE), 2019.10
-27. `<u>`李 家隆 `</u>`, 相澤 和也, 鄭 顕志, 本位田 真一, "離散制御器合成における設計誤りを特定するための反例出力手法", IPSJ/SIGSEソフトウェアエンジニアリングシンポジウム2020 (SES2020), 2020.9
-28. `<u>`李 家隆 `</u>`, 相澤 和也, 鄭 顕志, 鷲崎 弘宜, 本位田 真一, "実行時requirement enhancementのためのゲーム空間の差分分析アルゴリズム", マルチメディア、分散、協調とモバイル (DICOMO) シンポジウム, 2019.7
+1. 小笠原 翼, 依田 みなみ, <u>李 家隆</u>, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+2. 石水 優成, 生方 寿英, <u>李 家隆</u>, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+3. 小山 諒也, 王 志堯, <u>李 家隆</u>, 土屋 達弘, 鄭 顕志, "ユーザレビューに基づくアクセシビリティ違反レポートの理解支援手法", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+4. 青柳 龍太, 范 優美, <u>李 家隆</u>, 鄭 顕志, "オープンソースLLMエージェントフレームワークにおける権限管理メカニズムの実証調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+5. 品田 名留, 片岡 葉奈, <u>李 家隆</u>, 依田 みなみ, 松野 裕, "生成AIプログラミングにおけるプロンプト分析ツール", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.3.
+6. 石水 優成, 生方 寿英, 牟 恩弘, <u>李 家隆</u>, 鄭 顕志, "オンザフライ離散制御器合成における強化学習探索方策の学習環境と汎化性能の評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
+7. 小山 諒也, 王 志堯, <u>李 家隆</u>, 鄭 顕志, "エッジ環境を想定した LLM 生成計画への LTL 安全性検証の適用と評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
+8. 胡 晨玉, 石水 優成, <u>李 家隆</u>, 鄭 顕志, "動的ポイズニング攻撃に対するスライディングウィンドウ上側信頼限界を用いた連合学習の適応的防御", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-4, 2026.3.
+9. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた離散制御器合成のための制御問題の自動修正", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
+10. Chenyu Hu, <u>Jialong Li</u>, Kenji Tei, "Toward Robust Federated Learning via Runtime Adaptation of Aggregation", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
+11. Toshihide Ubukata, Enhong Mu, Takuto Yamauch, Mingyue Zhang, <u>Jialong Li</u>, Kenji Tei, "Enhancing Controller Synthesis via Graph-Based Reinforcement Learning", *IPSJ/SIGSE Software Engineering Symposium (SES2025)*, poster session, 2025.9.
+12. <u>Jialong Li</u>, Shogo Morita, Wei Wang, Yan Zhang, Takuto Yamauchi, Kenji Tei, "Global Progress or Local Intent? Exploring Human Perceptions of Communication Strategies in Human-Robot Collaboration", *IEICE Transactions on Information and Systems (Letter paper)*, Vol. E108.D, Issue 10, pp. 1260-1264, 2025.10. DOI: 10.1587/transinf.2025EDL8017 (査読付き)
+13. 蔡 金雨, <u>李 家隆</u>, 鄭 顕志, "ソーシャルメディア規制回避に向けた言語適応の動態分析：LLMベースのマルチエージェントシミュレーションによる検証", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+14. Mingyue Zhang, <u>Jialong Li</u>, Nianyu Li, "Large Language Model-Based Automated Smoke Testing Framework for Role-Playing Game Quests (in Chinese)", *CCF ChinaSoft 2024*, 2024.11.
+15. <u>李 家隆</u>, 鄭 顕志, "離散制御器による経路探索ロボットの開発", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+16. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた適応ルールの自動最適化", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+17. 森田尚吾, <u>李 家隆</u>, 鄭 顕志, "色覚異常者のためのLLMを使用したARにおける文字サポート", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+18. 阿部 凌太郎, <u>李 家隆*</u>, 蔡 金雨, 本位田 真一, 鄭 顕志, "パーソナライズされたシールディングを用いた自動運転における知覚安全性向上のためのアプローチ", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, 2024.3.
+19. Tianchen Wang, <u>Jialong Li</u>, Kenji Tei, "Sensor Fusion Based 3d Object Detection with Self-adaptive Depth Completion in the Autonomous Driving Scenario", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+20. Qinxin Chen, <u>Jialong Li</u>, Kenji Tei, "A TOR delivering method that promotes situation awareness", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+21. Jinyu Cai, <u>Jialong Li</u>, Kenji Tei, "Value Iteration Residual Network", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+22. Zhenyu Mao, <u>Jialong Li</u>, Kenji Tei, "The User Is King: Personalized Trip Recommendation with User Preference Guarantee", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+23. Senthilvelan Prasanth, <u>Jialong Li</u>, Kenji Tei, "Safe Reinforcement Learning via Hierarchical Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+24. Zhiwei Shen, <u>Jialong Li</u>, Kenji Tei, "Safe Multi-Agent Reinforcement Learning via Distributed Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+25. Jiali Ling, <u>Jialong Li</u>, Kenji Tei, Shinichi Honiden, "Towards Personalized Autonomous Driving: Deep Reinforcement Learning from Human Feedback", *Symposium on Multi Agent Systems for Harmonization 2021 (SMASH21 Summer Symposium)*, pp. 1-3, 2021.9.
+26. <u>Jialong Li</u>, "Analysis of changed game space for ensuring safety properties at runtime", *8th Asian Workshop on Advanced Software Engineering (AWASE)*, 2019.10.
+27. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 本位田 真一, "離散制御器合成における設計誤りを特定するための反例出力手法", *IPSJ/SIGSEソフトウェアエンジニアリングシンポジウム2020 (SES2020)*, 2020.9.
+28. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 鷲崎 弘宜, 本位田 真一, "実行時requirement enhancementのためのゲーム空間の差分分析アルゴリズム", *マルチメディア、分散、協調とモバイル (DICOMO) シンポジウム*, 2019.7.
