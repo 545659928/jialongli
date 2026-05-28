@@ -46,7 +46,7 @@ toc: false
 
 
 ## Refereed Conference Proceedings Paper
-6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models, The 8th IEEE International Conference on Artificial Intelligence Testing(AITest), 2026.7
+1. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models, The 8th IEEE International Conference on Artificial Intelligence Testing(AITest), 2026.7
 1. Zhenyu Mao, Jacky Keung, Xiangyu Li, Yicheng Sun, Kehui Chen, Jingyu Zhang, <u>Jialong Li</u>, "Making Scams Visible: Supporting Human Sensemaking of Conversational Dynamics with Multi-Level Alignment-Based Hints", *IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)*, short paper, 2026.
 2. <u>Jialong Li</u>', Zhenyu Mao, Zhiyao Wang, Yijun Lu, Shogo Morita, Nianyu Li, Kenji Tei, "See What I See: An Attention-Guiding eHMI Approach for Autonomous Vehicles", *ACM CHI Conference on Human Factors in Computing Systems (CHI)*, poster track, 6 pages, 2026.4.
 3. Wei Wang, <u>Jialong Li*</u>, Devi Karolita, "From Empathy to Engineering: A Pedagogical Framework and its Authentic mHealth Implementation", *IEEE/ACM 48th International Conference on Software Engineering (ICSE)*, poster track, 2 pages, 2026.4.
@@ -114,7 +114,7 @@ toc: false
 65. <u>Jialong Li</u>', Kazuya Aizawa, Kenji Tei, Shinichi Honiden, "Efficient Difference Analysis Algorithm for Runtime Requirement Degradation under System Functional Fault", *18th IEEE International Conference on Embedded and Ubiquitous Computing (EUC)*, pp. 33-40, 2020.12.
 66. <u>Jialong Li</u>, Kenji Tei, Shinichi Honiden, "Identifying Achievable Goals for Adaptive Replanning against Runtime Environment Change", *20th International Conference on Intelligent Systems Design and Applications (ISDA)*, pp. 945-955, 2020.12.
 
-## Other Items (Domestic Japanese conferences, Oral/Poster presentations)
+## Other Items (Domestic Japanese conferences, Presentations)
 
 1. 小笠原 翼, 依田 みなみ, <u>李 家隆</u>, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
 2. 石水 優成, 生方 寿英, <u>李 家隆</u>, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
