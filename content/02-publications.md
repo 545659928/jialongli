@@ -13,7 +13,6 @@ toc: false
 3. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "[SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models](https://arxiv.org/abs/2512.00560)", arXiv preprint arXiv:2512.00560, 2025.12.
 4. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li*</u>, "[Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.12706)", arXiv preprint arXiv:2512.12706, 2025.12.
 5. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
-6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "[Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models](https://arxiv.org/abs/2603.23828)", arXiv preprint arXiv:2603.23828, 2026.3.
 7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "[ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation](https://arxiv.org/abs/2604.23124)", arXiv preprint arXiv:2604.23124, 2026.4.
 8. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "Large Language Models in Model-Driven Engineering: A Systematic Mapping Study", arXiv preprint, 2026.
 9.  Zhiyao Wang, <u>Jialong Li</u>, Xiujing Guo, Tatsuhiro Tsuchiya, "[From Noisy Feedback to Trustworthy Issue Specifications: An Agent-Governed Retrieval-Augmented Generation Approach](https://doi.org/10.21203/rs.3.rs-8889312/v1)", preprint, 2026.2.
@@ -47,7 +46,7 @@ toc: false
 
 
 ## Refereed Conference Proceedings Paper
-
+6. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models, The 8th IEEE International Conference on Artificial Intelligence Testing(AITest), 2026.7
 1. Zhenyu Mao, Jacky Keung, Xiangyu Li, Yicheng Sun, Kehui Chen, Jingyu Zhang, <u>Jialong Li</u>, "Making Scams Visible: Supporting Human Sensemaking of Conversational Dynamics with Multi-Level Alignment-Based Hints", *IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)*, short paper, 2026.
 2. <u>Jialong Li</u>', Zhenyu Mao, Zhiyao Wang, Yijun Lu, Shogo Morita, Nianyu Li, Kenji Tei, "See What I See: An Attention-Guiding eHMI Approach for Autonomous Vehicles", *ACM CHI Conference on Human Factors in Computing Systems (CHI)*, poster track, 6 pages, 2026.4.
 3. Wei Wang, <u>Jialong Li*</u>, Devi Karolita, "From Empathy to Engineering: A Pedagogical Framework and its Authentic mHealth Implementation", *IEEE/ACM 48th International Conference on Software Engineering (ICSE)*, poster track, 2 pages, 2026.4.
