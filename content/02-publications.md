@@ -46,6 +46,7 @@ toc: false
 
 
 ## Refereed Conference Proceedings Paper
+1. Minami Yoda, <u>Jialong Li</u>, Yasuyuki Tahara, Yuichi Sei, Yutaka Matsuno, "Holistic Fashion Classification via Structured LLM Semantics and 2D YIN/YANG Theory", *16th International Conference on Artificial Intelligence-empowered Software Engineering (AIESE)*, 2026.7.
 1. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models, The 8th IEEE International Conference on Artificial Intelligence Testing (AITest), 2026.7
 1. Zhenyu Mao, Jacky Keung, Xiangyu Li, Yicheng Sun, Kehui Chen, Jingyu Zhang, <u>Jialong Li</u>, "Making Sense of Scams: Understanding Scam Conversations Through Multi-Level Alignment", *IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)*, short paper, 2026.
 2. <u>Jialong Li</u>', Zhenyu Mao, Zhiyao Wang, Yijun Lu, Shogo Morita, Nianyu Li, Kenji Tei, "See What I See: An Attention-Guiding eHMI Approach for Autonomous Vehicles", *ACM CHI Conference on Human Factors in Computing Systems (CHI)*, poster track, 6 pages, 2026.4.
