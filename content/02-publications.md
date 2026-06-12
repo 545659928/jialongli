@@ -18,6 +18,7 @@ toc: false
 
 ## Journal
 1. Zhengyin Chen, <u>Jialong Li</u>, Nianyu Li, Wenpin Jiao, Eunsuk Kang, "Context-Aware Proactive Self-Adaptation: A Two-Layer Model Predictive Control Approach", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, 2026.6.
+1. Yijun Lu, Yuyin Ma, Jianjin Zhao, Jiong Dong, <u>Jialong Li</u>, Nobukazu Yoshioka, Naoyasu Ubayashi, Hironori Washizaki, "Adaptive Takeover Time Budget Allocation in Automated Driving: A Physiology-Aware Semantic Agent Framework", *IEEE Transactions on Cognitive Communications and Networking*, 2026.
 1. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "[SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models](https://arxiv.org/abs/2512.00560)", *Automated Software Engineering Journal*, 39 pages, 2026.
 3. Mingyue Zhang, Chenyu Hu, Xuelian Cao, Atul Sajjanhar, Zheng Yang, Muneeb Ul Hassan, Zhi Jin, <u>Jialong Li</u>, "[EndPCA: Ensemble Defense with Provably Convergent Aggregation Against Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2026.3528257)", *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026.
 4. Yan Zhang, Difeng Cao, Hanchao Hou, Mengjian Hu, <u>Jialong Li</u>, Pei Sun, Shiguang Ni, "[Enhancing ADHD Early Screening with a Mobile Serious Game: A Combined Continuous Screening Paradigm](https://doi.org/10.1109/TG.2026.3650962)", *IEEE Transactions on Games (ToG)*, 2026.
