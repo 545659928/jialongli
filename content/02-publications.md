@@ -8,7 +8,6 @@ toc: false
 
 ## arXiv
 
-1. Jinyu Cai, Yusei Ishimizu, Mingyue Zhang, Munan Li, <u>Jialong Li*</u>, Kenji Tei, "[Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms](https://arxiv.org/abs/2502.19193)", arXiv preprint arXiv:2502.19193, 2025.2.
 2. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "[Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements](https://arxiv.org/abs/2511.13069)", arXiv preprint arXiv:2511.13069, 2025.11.
 4. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li*</u>, "[Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.12706)", arXiv preprint arXiv:2512.12706, 2025.12.
 5. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
@@ -19,6 +18,7 @@ toc: false
 ## Journal
 1. Zhengyin Chen, <u>Jialong Li</u>, Nianyu Li, Wenpin Jiao, Eunsuk Kang, "Context-Aware Proactive Self-Adaptation: A Two-Layer Model Predictive Control Approach", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, 2026.6.
 1. Yijun Lu, Yuyin Ma, Jianjin Zhao, Jiong Dong, <u>Jialong Li</u>, Nobukazu Yoshioka, Naoyasu Ubayashi, Hironori Washizaki, "Adaptive Takeover Time Budget Allocation in Automated Driving: A Physiology-Aware Semantic Agent Framework", *IEEE Transactions on Cognitive Communications and Networking*, 2026.
+1. Jinyu Cai, Mingyue Zhang, Yusei Ishimizu, Munan Li, <u>Jialong Li*</u>, Kenji Tei, "[Simulation of Language Evolution under Regulated Social Media Platforms: A Synergistic Approach of Large Language Models and Genetic Algorithms](https://arxiv.org/abs/2502.19193)", *Journal of Computational Social Science*, 2026.
 1. Jinyu Cai, <u>Jialong Li</u>, Nianyu Li, Zhenyu Mao, Mingyue Zhang, Kenji Tei, "[SAGE: Semantic-Aware Gray-Box Game Regression Testing with Large Language Models](https://arxiv.org/abs/2512.00560)", *Automated Software Engineering Journal*, 39 pages, 2026.
 3. Mingyue Zhang, Chenyu Hu, Xuelian Cao, Atul Sajjanhar, Zheng Yang, Muneeb Ul Hassan, Zhi Jin, <u>Jialong Li</u>, "[EndPCA: Ensemble Defense with Provably Convergent Aggregation Against Poisoning Attacks in Federated Learning](https://doi.org/10.1109/TIFS.2026.3528257)", *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026.
 4. Yan Zhang, Difeng Cao, Hanchao Hou, Mengjian Hu, <u>Jialong Li</u>, Pei Sun, Shiguang Ni, "[Enhancing ADHD Early Screening with a Mobile Serious Game: A Combined Continuous Screening Paradigm](https://doi.org/10.1109/TG.2026.3650962)", *IEEE Transactions on Games (ToG)*, 2026.
