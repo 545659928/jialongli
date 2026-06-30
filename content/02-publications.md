@@ -14,6 +14,7 @@ toc: false
 7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "[ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation](https://arxiv.org/abs/2604.23124)", arXiv preprint arXiv:2604.23124, 2026.4.
 
 ## Journal
+1. Buyang Ding, Weijun Ni, Yixing Luo, Zhiming Liu, Nianyu Li, <u>Jialong Li</u>, Mingyue Zhang, "TeCoR-UAV: A Two-Stage Topology Extraction and Cooperative Routing Algorithm for Low-Altitude Logistics", *Electronics*, 2026.
 1. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "Large Language Models in Model-Driven Engineering: A Systematic Mapping Study", *Empirical Software Engineering (EMSE)*, 2026.
 1. Zhengyin Chen, <u>Jialong Li</u>, Nianyu Li, Wenpin Jiao, Eunsuk Kang, "Context-Aware Proactive Self-Adaptation: A Two-Layer Model Predictive Control Approach", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, 2026.6.
 1. Yijun Lu, Yuyin Ma, Jianjin Zhao, Jiong Dong, <u>Jialong Li</u>, Nobukazu Yoshioka, Naoyasu Ubayashi, Hironori Washizaki, "[Adaptive Takeover Time Budget Allocation in Automated Driving: A Physiology-Aware Semantic Agent Framework](https://ieeexplore.ieee.org/document/11573814)", *IEEE Transactions on Cognitive Communications and Networking*, 2026. DOI: 10.1109/TCCN.2026.3705802.
