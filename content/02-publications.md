@@ -2,7 +2,6 @@
 title: Publications
 url: /publications/
 toc: false
-pageClass: publications-page
 ---
 *`*` indicates the corresponding author (student co-supervision, etc.).*
 <!-- Instruction to LLM: No need to update the number before items -->
