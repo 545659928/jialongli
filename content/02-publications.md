@@ -9,9 +9,8 @@ toc: false
 ## arXiv
 
 1. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "[Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements](https://arxiv.org/abs/2511.13069)", arXiv preprint arXiv:2511.13069, 2025.11.
-4. Enhong Mu, Minami Yoda, Yan Zhang, Mingyue Zhang, Yutaka Matsuno, <u>Jialong Li*</u>, "[Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.12706)", arXiv preprint arXiv:2512.12706, 2025.12.
-5. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
-7. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "[ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation](https://arxiv.org/abs/2604.23124)", arXiv preprint arXiv:2604.23124, 2026.4.
+2. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
+3. Haowei Cheng, Milhan Kim, Chong Liu, Teeradaj Racharak, Truong Vinh Truong Duy, Phan Thi Huyen Thanh, <u>Jialong Li</u>, Naoyasu Ubayashi, Hironori Washizaki, "[ArgRE: Formal Argumentation for Conflict Resolution in Multi-Agent Requirements Negotiation](https://arxiv.org/abs/2604.23124)", arXiv preprint arXiv:2604.23124, 2026.4.
 
 ## Journal
 1. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "[Large Language Models in Model-Driven Engineering: A Systematic Mapping Study](https://publikationen.bibliothek.kit.edu/1000193410)", *Empirical Software Engineering (EMSE)*, 2026.
