@@ -9,9 +9,9 @@ toc: false
 ## arXiv
 
 1. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "[Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements](https://arxiv.org/abs/2511.13069)", arXiv preprint arXiv:2511.13069, 2025.11.
-2. Toshihide Ubukata, Zhiyao Wang, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "[Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts](https://arxiv.org/abs/2602.19244)", arXiv preprint arXiv:2602.19244, 2026.2.
 
 ## Journal
+1. Toshihide Ubukata, Zhiyao Wang, Yusei Ishimizu, Enhong Mu, <u>Jialong Li*</u>, Kenji Tei, "Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts", *IEICE Transactions on Information and Systems (IEICE Trans. Inf. Syst.)*, 2026.
 1. Weixing Zhang, Bowen Jiang, Yuhong Fu, Haowei Cheng, Maximilian Hummel, Vincenzo Scotti, Nathan Hagel, <u>Jialong Li</u>, Georg Grossmann, Markus Stumptner, Regina Hebig, Daniel Strüber, Anne Koziolek, "[Large Language Models in Model-Driven Engineering: A Systematic Mapping Study](https://doi.org/10.1007/s10664-026-10921-4)", *Empirical Software Engineering (EMSE)*, Vol. 32, Issue 1, Art. 3, 2026.7.
 1. Zhengyin Chen, <u>Jialong Li</u>, Nianyu Li, Wenpin Jiao, Eunsuk Kang, "[Context-Aware Proactive Self-Adaptation: A Two-Layer Model Predictive Control Approach](https://doi.org/10.1145/3708998)", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, Vol. 21, Issue 2, Art. 13, 2026.6.
 1. Yijun Lu, Yuyin Ma, Jianjin Zhao, Jiong Dong, <u>Jialong Li</u>, Nobukazu Yoshioka, Naoyasu Ubayashi, Hironori Washizaki, "[Adaptive Takeover Time Budget Allocation in Automated Driving: A Physiology-Aware Semantic Agent Framework](https://doi.org/10.1109/TCCN.2026.3705802)", *IEEE Transactions on Cognitive Communications and Networking*, Vol. 12, pp. 9038-9051, 2026.
