@@ -13,12 +13,12 @@ toc: false
 ### Master Program
 
 1. 🇨🇳 Enhong Mu (w/ Tatsuhiro Tsuchiya), OsakaU, 2026.10-
-3. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025.4-
-4. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025.4-
-5. 🇯🇵 Ryoya Koyama (w/ Kenji Tei), ScienceTokyo, 2025.4-
-6. 🇯🇵 Ryota Aoyagi (w/ Kenji Tei), ScienceTokyo, 2025.4-
-<!-- 2. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10- -->
-<!-- 2. 🇯🇵 Yuki Tsuzuku (w/ Kenji Tei), ScienceTokyo, 2026.4- -->
+8. 🇯🇵 Yuki Tsuzuku (w/ Kenji Tei), ScienceTokyo, 2026.4-
+2. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025.4-
+3. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025.4-
+4. 🇯🇵 Ryoya Koyama (w/ Kenji Tei), ScienceTokyo, 2025.4-
+5. 🇯🇵 Ryota Aoyagi (w/ Kenji Tei), ScienceTokyo, 2025.4-
+6. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10-
 
 ### Bachelor Program
 
