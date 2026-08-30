@@ -18,7 +18,7 @@ toc: false
 3. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025.4-
 4. 🇯🇵 Ryoya Koyama (w/ Kenji Tei), ScienceTokyo, 2025.4-
 5. 🇯🇵 Ryota Aoyagi (w/ Kenji Tei), ScienceTokyo, 2025.4-
-6. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10-
+<!-- 6. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10- -->
 
 ### Bachelor Program
 
