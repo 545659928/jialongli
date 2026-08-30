@@ -52,6 +52,7 @@ toc: false
 
 
 ## International Conference Paper
+1. Yijun Lu, Zheng Lin, Zihan Fang, Yuyin Ma, Jing Yang, Lip Yee Por, Yinqiu Liu, <u>Jialong Li</u>, "AdaK-MoE: Entropy-Guided Adaptive Expert Budget for Efficient Mixture-of-Experts Inference", *The 12th IEEE International Conference on Cloud and Big Data Computing (CBDCom)*, regular paper, 2026.
 1. Minami Yoda, <u>Jialong Li</u>, Yasuyuki Tahara, Yuichi Sei, Yutaka Matsuno, "Holistic Fashion Classification via Structured LLM Semantics and 2D YIN/YANG Theory", *16th International Conference on Artificial Intelligence-empowered Software Engineering (AIESE)*, 4 pages, 2026.7.
 1. Ryoya Koyama, Zhiyao Wang, Devi Karolita, <u>Jialong Li*</u>, Kenji Tei, "Bridging the Interpretation Gap in Accessibility Testing: Empathetic and Legal-Aware Bug Report Generation via Large Language Models", *The 8th IEEE International Conference on Artificial Intelligence Testing (AITest)*, 9 pages, 2026.7.
 1. Zhenyu Mao, Jacky Keung, Xiangyu Li, Yicheng Sun, Kehui Chen, Jingyu Zhang, <u>Jialong Li</u>, "Making Sense of Scams: Understanding Scam Conversations Through Multi-Level Alignment", *IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)*, short paper, 2026.
