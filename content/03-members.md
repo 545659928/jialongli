@@ -12,7 +12,8 @@ toc: false
 
 ### Master Program
 
-1. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10-
+1. 🇨🇳 Enhong Mu (w/ Tatsuhiro Tsuchiya), OsakaU, 2026.10-
+<!-- 2. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024.10- -->
 2. 🇯🇵 Yuki Tsuzuku (w/ Kenji Tei), ScienceTokyo, 2026.4-
 3. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025.4-
 4. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025.4-
@@ -22,11 +23,14 @@ toc: false
 ### Bachelor Program
 
 1. 🇯🇵 Tsubasa Ogasawara (w/ Kenji Tei), ScienceTokyo, 2026.4-
-2. 🇨🇳 Enhong Mu (w/ Mingyue Zhang), SWU, 2024.9-2026.6
 
 ### Visiting
 
-1. TBD
+1. Wenkai Xing, Peking University, PhD
+2. Haotian Liu, Xiamen University, Undergraduate
+3. Boyan Zhang, Dalian University of Technology, Undergraduate
+4. Han-Sheng Lu, National Taiwan Ocean University, Undergraduate
+5. Dong-Yi Su, National Taiwan Ocean University, Undergraduate
 
 ---
 
@@ -54,19 +58,20 @@ Year shows the graducation year
 
 ### Bachelor Program
 
-1. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025
-2. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025
-3. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2024
-4. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024
-5. 🇮🇳 Gurseerat (w/ Kenji Tei), Waseda, 2023
-6. 🇺🇸 Justin Miyoshi (w/ Kenji Tei), Waseda, 2023
-7. 🇯🇵 Kenta Suzuki (w/ Kenji Tei), Waseda, 2023
-8. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2022
-9. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2022
+1. 🇨🇳 Enhong Mu (w/ Mingyue Zhang), SWU, 2026
+2. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025
+3. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025
+4. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2024
+5. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024
+6. 🇮🇳 Gurseerat (w/ Kenji Tei), Waseda, 2023
+7. 🇺🇸 Justin Miyoshi (w/ Kenji Tei), Waseda, 2023
+8. 🇯🇵 Kenta Suzuki (w/ Kenji Tei), Waseda, 2023
+9. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2022
+10. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2022
 
-### Visiting
+### Visiting & Intern
 
-1. Zhiyao Wang, 🇯🇵OsakaU -> Waseda, 2025.12-2026.1
+1. Zhiyao Wang, 🇯🇵 OsakaU -> Waseda, 2025.12-2026.1
 2. Zhenyu Mao, 🇭🇰 HK CityU -> Waseda, 2025.10
 3. Enhong Mu, 🇨🇳 SWU -> Waseda, 2025.8
 4. Wei Wang, 🇦🇺 Monash -> Waseda, 2025.4
