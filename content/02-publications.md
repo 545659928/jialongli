@@ -8,6 +8,8 @@ toc: false
 
 ## arXiv
 
+1. Bowen Jiang, Haowei Cheng, Yuhong Fu, Anne Koziolek, <u>Jialong Li</u>, Weixing Zhang, "[Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions](https://arxiv.org/abs/2609.03028)", *arXiv preprint arXiv:2609.03028*, 2026.9.
+
 ## Journal
 1. Javier Cámara, Raffaela Mirandola, Kenji Tei, Nelly Bencomo, Matteo Camilli, Nicolás Cardozo, Ivana Dusparic, Fuyuki Ishikawa, Anne Koziolek, Livia Lestingi, <u>Jialong Li</u>, Marin Litoiu, Gabriel A. Moreno, Alessandro V. Papadopoulos, Diego Perez-Palacin, Danilo Pianini, Ralf Reussner, Genaína Rodrigues, Patrizia Scandurra, Vincenzo Scotti, Gabriel Tamura, Christos Tsigkanos, Karthik Vaidhyanathan, Gricel Vázquez, Norha M. Villegas, "Uncertainty Interaction in Software-Intensive Systems: A Community Roadmap", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, Just Accepted, 2026.
 1. Zhenyu Mao, Jacky Keung, Yicheng Sun, Yifei Wang, Shuo Liu, <u>Jialong Li</u>, "[Towards Requirements Engineering for GenAI-Enabled Software: Bridging Responsibility Gaps through Human Oversight Requirements](https://doi.org/10.1016/j.infsof.2026.108319)", *Information and Software Technology (IST)*, 2026.
