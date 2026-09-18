@@ -6,7 +6,7 @@ toc: false
 ## About Me
 
 I am an Assistant Professor (PI) at the Waseda Institute for Advanced Study (WIAS), Waseda University, and a concurrent Research Fellow at the School of Computing, Institute of Science Tokyo.
-<span style="color:red">**From April 2027, I will join the Department of Information Science and Technology, Graduate School of Information Science and Technology, The University of Osaka, as an Associate Professor.**</span>
+<span style="color:red">**From April 2027, I will join the Department of Information Science and Technology, The University of Osaka, as an Associate Professor.**</span>
 
 My research lies at the intersection of software engineering, artificial intelligence, and human-computer interaction, with a particular focus on human-centered, adaptive, and reliable software systems. I am especially interested in self-adaptive systems, software testing and verification, large language models for software engineering, and intelligent interactive systems.
 
