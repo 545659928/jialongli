@@ -27,10 +27,11 @@ toc: false
 ### Visiting / Internship
 
 1. Wenkai Xing, Peking University, PhD
-2. Haotian Liu, Xiamen University, Undergraduate
-3. Boyan Zhang, Dalian University of Technology, Undergraduate
-4. Han-Sheng Lu, National Taiwan Ocean University, Undergraduate
-5. Dong-Yi Su, National Taiwan Ocean University, Undergraduate
+2. Yuanfu Xie, Peking University, PhD
+3. Haotian Liu, Xiamen University, Undergraduate
+4. Boyan Zhang, Dalian University of Technology, Undergraduate
+5. Han-Sheng Lu, National Taiwan Ocean University, Undergraduate
+6. Dong-Yi Su, National Taiwan Ocean University, Undergraduate
 
 ---
 
@@ -69,9 +70,9 @@ Year shows the graducation year
 9. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2022
 10. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2022
 
-### Visiting & Intern
+### Visiting & Intern Students
 
-1. Zhiyao Wang, 🇯🇵 OsakaU -> Waseda, 2025.12-2026.1
-2. Zhenyu Mao, 🇭🇰 HK CityU -> Waseda, 2025.10
-3. Enhong Mu, 🇨🇳 SWU -> Waseda, 2025.8
-4. Wei Wang, 🇦🇺 Monash -> Waseda, 2025.4
+1. Zhiyao Wang, 🇯🇵 OsakaU, 2025.12-2026.1
+2. Zhenyu Mao, 🇭🇰 HK CityU, 2025.10
+3. Enhong Mu, 🇨🇳 SWU, 2025.8 -> Joined OsakaU from 2027.10
+<!-- 4. Wei Wang, 🇦🇺 Monash -> Waseda, 2025.4 -->
