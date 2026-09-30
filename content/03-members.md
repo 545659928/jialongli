@@ -59,16 +59,15 @@ Year shows the graducation year
 
 ### Bachelor Program
 
-1. 🇨🇳 Enhong Mu (w/ Mingyue Zhang), SWU, 2026
-2. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025
-3. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025
-4. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2024
-5. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024
-6. 🇮🇳 Gurseerat (w/ Kenji Tei), Waseda, 2023
-7. 🇺🇸 Justin Miyoshi (w/ Kenji Tei), Waseda, 2023
-8. 🇯🇵 Kenta Suzuki (w/ Kenji Tei), Waseda, 2023
-9. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2022
-10. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2022
+1. 🇯🇵 Yusei Ishimizu (w/ Kenji Tei), ScienceTokyo, 2025
+2. 🇯🇵 Shogo Morita (w/ Kenji Tei), ScienceTokyo, 2025
+3. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2024
+4. 🇨🇳 Shanmin Zhou (w/ Kenji Tei), Waseda, 2024
+5. 🇮🇳 Gurseerat (w/ Kenji Tei), Waseda, 2023
+6. 🇺🇸 Justin Miyoshi (w/ Kenji Tei), Waseda, 2023
+7. 🇯🇵 Kenta Suzuki (w/ Kenji Tei), Waseda, 2023
+8. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2022
+9.  🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2022
 
 ### Visiting & Intern Students
 
