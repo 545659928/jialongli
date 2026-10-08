@@ -32,6 +32,7 @@ toc: false
 4. Boyan Zhang, Dalian University of Technology, Undergraduate
 5. Han-Sheng Lu, National Taiwan Ocean University, Undergraduate
 6. Dong-Yi Su, National Taiwan Ocean University, Undergraduate
+<!-- 7. Jing Zhou, MicroWorld Corporation, Industry Internship -->
 
 ---
 
