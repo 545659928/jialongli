@@ -8,7 +8,7 @@ toc: false
 1. 🇨🇳 Jinyu Cai (w/ Kenji Tei), Waseda, 2023.10-
 2. 🇨🇳 Chenyu Hu (w/ Kenji Tei), ScienceTokyo, 2025.10-
 3. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), ScienceTokyo, Industry PhD (Woven By Toyota), 2026.4-
-4. 🇨🇳 Zhiyao Wang (w/ Tatsuhiro Tsuchiya), OsakaU, 2025.10-
+4. 🇨🇳 Zhiyao Wang (w/ Tatsuhiro Tsuchiya), OsakaU, 2024.10-
 
 ### Master Program
 
@@ -41,12 +41,15 @@ toc: false
 
 Year shows the graducation year
 
+<!-- ### PhD Program -->
+
+
 ### Master Program
 
 1. 🇯🇵 Toshihide Ubukata (w/ Kenji Tei), Waseda, 2026
 2. 🇨🇳 Yitong Shi (w/ Kenji Tei), ScienceTokyo, 2026
 3. 🇯🇵 Ayumi Takai (w/ Kenji Tei), ScienceTokyo, 2026
-4. 🇨🇳 Chenyu Hu (w/ Zheng Yang, Mingyue Zhang), SWU, 2025
+<!-- 4. 🇨🇳 Chenyu Hu (w/ Zheng Yang, Mingyue Zhang), SWU, 2025 -->
 5. 🇨🇳 Nianzhao Zheng (w/ Kenji Tei), Waseda, 2024
 6. 🇨🇳 Zhenyu Mao (w/ Kenji Tei), Waseda, 2024
 7. 🇮🇳 Prasanth (w/ Kenji Tei), Waseda, 2023
