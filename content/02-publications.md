@@ -8,7 +8,11 @@ toc: false
 
 ## arXiv
 
+1. Aviral Gandhi, Jinglue Xu, <u>Jialong Li</u>, Hitoshi Iba, "[LESS: Lightweight Evolutionary Supernet Search in Minutes](https://arxiv.org/abs/2610.01468)", *arXiv preprint arXiv:2610.01468*, 2026.10.
+
 1. Bowen Jiang, Haowei Cheng, Yuhong Fu, Anne Koziolek, <u>Jialong Li</u>, Weixing Zhang, "[Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions](https://arxiv.org/abs/2609.03028)", *arXiv preprint arXiv:2609.03028*, 2026.9.
+
+1. Weixing Zhang, Bowen Jiang, Tianhai Liu, <u>Jialong Li</u>, Anne Koziolek, "[Augmentation with Dilution? A Large-Scale Empirical Study of Human Contributor Ecosystems After AI Coding Agent Adoption](https://arxiv.org/abs/2606.26289)", *arXiv preprint arXiv:2606.26289*, 2026.6.
 
 ## Journal
 1. Javier Cámara, Raffaela Mirandola, Kenji Tei, Nelly Bencomo, Matteo Camilli, Nicolás Cardozo, Ivana Dusparic, Fuyuki Ishikawa, Anne Koziolek, Livia Lestingi, <u>Jialong Li</u>, Marin Litoiu, Gabriel A. Moreno, Alessandro V. Papadopoulos, Diego Perez-Palacin, Danilo Pianini, Ralf Reussner, Genaína Rodrigues, Patrizia Scandurra, Vincenzo Scotti, Gabriel Tamura, Christos Tsigkanos, Karthik Vaidhyanathan, Gricel Vázquez, Norha M. Villegas, "[Uncertainty Interaction in Software-Intensive Systems: A Community Roadmap](https://doi.org/10.1145/3846384)", *ACM Transactions on Autonomous and Adaptive Systems (TAAS)*, Just Accepted, 2026.
