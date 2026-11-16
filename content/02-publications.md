@@ -131,33 +131,34 @@ toc: false
 
 ## Other Items (Domestic Japanese conferences, Presentations)
 
-1. 小笠原 翼, 依田 みなみ, <u>李 家隆</u>, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
-2. 石水 優成, 生方 寿英, <u>李 家隆</u>, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
-3. 小山 諒也, 王 志堯, <u>李 家隆</u>, 土屋 達弘, 鄭 顕志, "ユーザレビューに基づくアクセシビリティ違反レポートの理解支援手法", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
-4. 青柳 龍太, 范 優美, <u>李 家隆</u>, 鄭 顕志, "オープンソースLLMエージェントフレームワークにおける権限管理メカニズムの実証調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
-5. 品田 名留, 片岡 葉奈, <u>李 家隆</u>, 依田 みなみ, 松野 裕, "生成AIプログラミングにおけるプロンプト分析ツール", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.3.
-6. 石水 優成, 生方 寿英, 牟 恩弘, <u>李 家隆</u>, 鄭 顕志, "オンザフライ離散制御器合成における強化学習探索方策の学習環境と汎化性能の評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
-7. 小山 諒也, 王 志堯, <u>李 家隆</u>, 鄭 顕志, "エッジ環境を想定した LLM 生成計画への LTL 安全性検証の適用と評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
-8. 胡 晨玉, 石水 優成, <u>李 家隆</u>, 鄭 顕志, "動的ポイズニング攻撃に対するスライディングウィンドウ上側信頼限界を用いた連合学習の適応的防御", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-4, 2026.3.
-9. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた離散制御器合成のための制御問題の自動修正", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
-10. Chenyu Hu, <u>Jialong Li</u>, Kenji Tei, "Toward Robust Federated Learning via Runtime Adaptation of Aggregation", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
-11. Toshihide Ubukata, Enhong Mu, Takuto Yamauch, Mingyue Zhang, <u>Jialong Li</u>, Kenji Tei, "Enhancing Controller Synthesis via Graph-Based Reinforcement Learning", *IPSJ/SIGSE Software Engineering Symposium (SES2025)*, poster session, 2025.9.
-12. <u>Jialong Li</u>, Shogo Morita, Wei Wang, Yan Zhang, Takuto Yamauchi, Kenji Tei, "[Global Progress or Local Intent? Exploring Human Perceptions of Communication Strategies in Human-Robot Collaboration](https://doi.org/10.1587/transinf.2025EDL8017)", *IEICE Transactions on Information and Systems (Letter paper)*, Vol. E108-D, No. 10, pp. 1260-1264, 2025.10.
-13. Sinan Chen, Liuyi Yang, Yangmei Xie, Zhiyi Zhu, <u>Jialong Li</u>, Yue Zhang, Miao Zhang, "Developing a Web Service for Creating E-Learning Video Using Digital Human and Educational Content", *8th Eurasian Conference on Educational Innovation (ECEI)*, 2025.2.
-13. 蔡 金雨, <u>李 家隆</u>, 鄭 顕志, "ソーシャルメディア規制回避に向けた言語適応の動態分析：LLMベースのマルチエージェントシミュレーションによる検証", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
-14. Mingyue Zhang, <u>Jialong Li</u>, Nianyu Li, "Large Language Model-Based Automated Smoke Testing Framework for Role-Playing Game Quests (in Chinese)", *CCF ChinaSoft 2024*, 2024.11.
-15. <u>李 家隆</u>, 鄭 顕志, "離散制御器による経路探索ロボットの開発", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
-16. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた適応ルールの自動最適化", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
-17. 森田尚吾, <u>李 家隆</u>, 鄭 顕志, "色覚異常者のためのLLMを使用したARにおける文字サポート", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
-18. Toshihide Ubukata, <u>Jialong Li</u>, Kenji Tei, "[Diffusion Model for Planning: A Systematic Literature Review](https://doi.org/10.48550/arXiv.2408.10266)", *arXiv preprint arXiv:2408.10266*, 2024.8.
-18. 阿部 凌太郎, <u>李 家隆*</u>, 蔡 金雨, 本位田 真一, 鄭 顕志, "パーソナライズされたシールディングを用いた自動運転における知覚安全性向上のためのアプローチ", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, 2024.3.
-19. Tianchen Wang, <u>Jialong Li</u>, Kenji Tei, "Sensor Fusion Based 3d Object Detection with Self-adaptive Depth Completion in the Autonomous Driving Scenario", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-20. Qinxin Chen, <u>Jialong Li</u>, Kenji Tei, "A TOR delivering method that promotes situation awareness", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-21. Jinyu Cai, <u>Jialong Li</u>, Kenji Tei, "Value Iteration Residual Network", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-22. Zhenyu Mao, <u>Jialong Li</u>, Kenji Tei, "The User Is King: Personalized Trip Recommendation with User Preference Guarantee", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-23. Senthilvelan Prasanth, <u>Jialong Li</u>, Kenji Tei, "Safe Reinforcement Learning via Hierarchical Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-24. Zhiwei Shen, <u>Jialong Li</u>, Kenji Tei, "Safe Multi-Agent Reinforcement Learning via Distributed Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
-25. Jiali Ling, <u>Jialong Li</u>, Kenji Tei, Shinichi Honiden, "Towards Personalized Autonomous Driving: Deep Reinforcement Learning from Human Feedback", *Symposium on Multi Agent Systems for Harmonization 2021 (SMASH21 Summer Symposium)*, pp. 1-3, 2021.9.
-26. <u>Jialong Li</u>, "Analysis of changed game space for ensuring safety properties at runtime", *8th Asian Workshop on Advanced Software Engineering (AWASE)*, 2019.10.
-27. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 本位田 真一, "離散制御器合成における設計誤りを特定するための反例出力手法", *IPSJ/SIGSEソフトウェアエンジニアリングシンポジウム2020 (SES2020)*, 2020.9.
-28. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 鷲崎 弘宜, 本位田 真一, "実行時requirement enhancementのためのゲーム空間の差分分析アルゴリズム", *マルチメディア、分散、協調とモバイル (DICOMO) シンポジウム*, 2019.7.
+1. 品田 名留, <u>李 家隆</u>, 依田 みなみ, 松野 裕, "生成AI支援PBLにおける成果物の動作・要件の達成と成果物理解度の実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.11.
+2. 小笠原 翼, 依田 みなみ, <u>李 家隆</u>, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+3. 石水 優成, 生方 寿英, <u>李 家隆</u>, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+4. 小山 諒也, 王 志堯, <u>李 家隆</u>, 土屋 達弘, 鄭 顕志, "ユーザレビューに基づくアクセシビリティ違反レポートの理解支援手法", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+5. 青柳 龍太, 范 優美, <u>李 家隆</u>, 鄭 顕志, "オープンソースLLMエージェントフレームワークにおける権限管理メカニズムの実証調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
+6. 品田 名留, 片岡 葉奈, <u>李 家隆</u>, 依田 みなみ, 松野 裕, "生成AIプログラミングにおけるプロンプト分析ツール", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.3.
+7. 石水 優成, 生方 寿英, 牟 恩弘, <u>李 家隆</u>, 鄭 顕志, "オンザフライ離散制御器合成における強化学習探索方策の学習環境と汎化性能の評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
+8. 小山 諒也, 王 志堯, <u>李 家隆</u>, 鄭 顕志, "エッジ環境を想定した LLM 生成計画への LTL 安全性検証の適用と評価", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-5, 2026.3.
+9. 胡 晨玉, 石水 優成, <u>李 家隆</u>, 鄭 顕志, "動的ポイズニング攻撃に対するスライディングウィンドウ上側信頼限界を用いた連合学習の適応的防御", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-4, 2026.3.
+10. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた離散制御器合成のための制御問題の自動修正", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
+11. Chenyu Hu, <u>Jialong Li</u>, Kenji Tei, "Toward Robust Federated Learning via Runtime Adaptation of Aggregation", *22nd IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2025.11.
+12. Toshihide Ubukata, Enhong Mu, Takuto Yamauch, Mingyue Zhang, <u>Jialong Li</u>, Kenji Tei, "Enhancing Controller Synthesis via Graph-Based Reinforcement Learning", *IPSJ/SIGSE Software Engineering Symposium (SES2025)*, poster session, 2025.9.
+13. <u>Jialong Li</u>, Shogo Morita, Wei Wang, Yan Zhang, Takuto Yamauchi, Kenji Tei, "[Global Progress or Local Intent? Exploring Human Perceptions of Communication Strategies in Human-Robot Collaboration](https://doi.org/10.1587/transinf.2025EDL8017)", *IEICE Transactions on Information and Systems (Letter paper)*, Vol. E108-D, No. 10, pp. 1260-1264, 2025.10.
+14. Sinan Chen, Liuyi Yang, Yangmei Xie, Zhiyi Zhu, <u>Jialong Li</u>, Yue Zhang, Miao Zhang, "Developing a Web Service for Creating E-Learning Video Using Digital Human and Educational Content", *8th Eurasian Conference on Educational Innovation (ECEI)*, 2025.2.
+15. 蔡 金雨, <u>李 家隆</u>, 鄭 顕志, "ソーシャルメディア規制回避に向けた言語適応の動態分析：LLMベースのマルチエージェントシミュレーションによる検証", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+16. Mingyue Zhang, <u>Jialong Li</u>, Nianyu Li, "Large Language Model-Based Automated Smoke Testing Framework for Role-Playing Game Quests (in Chinese)", *CCF ChinaSoft 2024*, 2024.11.
+17. <u>李 家隆</u>, 鄭 顕志, "離散制御器による経路探索ロボットの開発", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+18. 石水 優成, <u>李 家隆</u>, 鄭 顕志, "LLMを用いた適応ルールの自動最適化", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+19. 森田尚吾, <u>李 家隆</u>, 鄭 顕志, "色覚異常者のためのLLMを使用したARにおける文字サポート", *21st IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2024.11.
+20. Toshihide Ubukata, <u>Jialong Li</u>, Kenji Tei, "[Diffusion Model for Planning: A Systematic Literature Review](https://doi.org/10.48550/arXiv.2408.10266)", *arXiv preprint arXiv:2408.10266*, 2024.8.
+21. 阿部 凌太郎, <u>李 家隆*</u>, 蔡 金雨, 本位田 真一, 鄭 顕志, "パーソナライズされたシールディングを用いた自動運転における知覚安全性向上のためのアプローチ", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, 2024.3.
+22. Tianchen Wang, <u>Jialong Li</u>, Kenji Tei, "Sensor Fusion Based 3d Object Detection with Self-adaptive Depth Completion in the Autonomous Driving Scenario", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+23. Qinxin Chen, <u>Jialong Li</u>, Kenji Tei, "A TOR delivering method that promotes situation awareness", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+24. Jinyu Cai, <u>Jialong Li</u>, Kenji Tei, "Value Iteration Residual Network", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+25. Zhenyu Mao, <u>Jialong Li</u>, Kenji Tei, "The User Is King: Personalized Trip Recommendation with User Preference Guarantee", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+26. Senthilvelan Prasanth, <u>Jialong Li</u>, Kenji Tei, "Safe Reinforcement Learning via Hierarchical Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+27. Zhiwei Shen, <u>Jialong Li</u>, Kenji Tei, "Safe Multi-Agent Reinforcement Learning via Distributed Adaptive Shielding", *19th IEEE Transdisciplinary-Oriented Workshop for Emerging Researchers (IEEE TOWERS)*, 2022.11.
+28. Jiali Ling, <u>Jialong Li</u>, Kenji Tei, Shinichi Honiden, "Towards Personalized Autonomous Driving: Deep Reinforcement Learning from Human Feedback", *Symposium on Multi Agent Systems for Harmonization 2021 (SMASH21 Summer Symposium)*, pp. 1-3, 2021.9.
+29. <u>Jialong Li</u>, "Analysis of changed game space for ensuring safety properties at runtime", *8th Asian Workshop on Advanced Software Engineering (AWASE)*, 2019.10.
+30. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 本位田 真一, "離散制御器合成における設計誤りを特定するための反例出力手法", *IPSJ/SIGSEソフトウェアエンジニアリングシンポジウム2020 (SES2020)*, 2020.9.
+31. <u>李 家隆</u>, 相澤 和也, 鄭 顕志, 鷲崎 弘宜, 本位田 真一, "実行時requirement enhancementのためのゲーム空間の差分分析アルゴリズム", *マルチメディア、分散、協調とモバイル (DICOMO) シンポジウム*, 2019.7.
