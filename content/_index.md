@@ -22,4 +22,4 @@ I am actively recruiting students and looking for collaborators.
 - **Online research interns**: I welcome Master's and Ph.D. students at other universities (with their supervisor's permission) and undergraduates with strong programming skills to work with me remotely. The usual goal is a first-authored paper during the internship. Interns who do well are encouraged to apply to our graduate programs later.
 - **Research collaborators**: I am open to collaboration with researchers in software engineering, AI, and HCI, including joint papers, student exchange, research visits, and joint grant applications.
 
-<span style="color:red">**Students and interns: please apply through the [application form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__twZ7UZUQ1ZCVklLRjVZSzZTMzZBUEZKUjVLRzVQRS4u).**</span>
+<span style="color:red">**Students and interns: please apply through the [application form](https://forms.cloud.microsoft/r/yZJ4YBg9Rm).**</span>
