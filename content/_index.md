@@ -16,4 +16,4 @@ During my Ph.D., I was also a visiting researcher at Carnegie Mellon University,
 ## Call for students
 
 I welcome applications from self-motivated Master's and Ph.D. students, as well as online research interns and on site visiting students.
-Although I will not host new students at Waseda University this yes, I can recommend applicants to graduate programs at the Institute of Science Tokyo and Osaka University, where I may also provide direct research supervision. <span style="color:red">**To apply, please submit the [application form]().**</span>
+Although I will not host new students at Waseda University this year, I can recommend applicants to graduate programs at the Institute of Science Tokyo and Osaka University, where I may also provide direct research supervision. <span style="color:red">**To apply, please submit the [application form]().**</span>
