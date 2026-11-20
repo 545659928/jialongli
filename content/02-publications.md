@@ -132,6 +132,7 @@ toc: false
 
 ## Other Items (Domestic Japanese conferences, Presentations)
 
+<!-- 1. Weixing Zhang, Jinying Li, Bowen Jiang, Tianhai Liu, <u>Jialong Li</u>, Anne Koziolek, "Where Did the Hallucinated Packages Go? Tracing Agent-Attributed Dependency Additions in Course-Related Repositories", *1st Workshop on Software Supply Chain Security (ChainSEC 2027), co-located with ICSE 2027*, talk proposal (non-archival), 2027.4. (Submitted 2026-11-20; uncomment if accepted.) -->
 1. 品田 名留, <u>李 家隆</u>, 依田 みなみ, 松野 裕, "生成AI支援PBLにおける成果物の動作・要件の達成と成果物理解度の実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.11.
 2. 小笠原 翼, 依田 みなみ, <u>李 家隆</u>, 松野 裕, 鄭 顕志, "モバイルプラットフォームにおけるプログラミング教育用シリアスゲームの実態調査", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
 3. 石水 優成, 生方 寿英, <u>李 家隆</u>, 鄭 顕志, "実行時指向性制御器合成に基づく段階的 ODD 縮退機構：自動運転支援を例とした Lingua Franca 上の試作", *電子情報通信学会 知能ソフトウェア工学研究会 (KBSE)*, pp. 1-6, 2026.7.
