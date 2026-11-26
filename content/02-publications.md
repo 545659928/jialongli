@@ -8,6 +8,8 @@ toc: false
 
 ## arXiv
 
+1. Zhiyao Wang, Yiming Peng, Munan Li, Mingyue Zhang, Guanghong Li, <u>Jialong Li</u>, Tatsuhiro Tsuchiya, "[AEGIS: Evidence-Guided Set Decisions for Requirement-to-Code Traceability](https://arxiv.org/abs/2611.30093)", *arXiv preprint arXiv:2611.30093*, 2026.11.
+
 1. Aviral Gandhi, Jinglue Xu, <u>Jialong Li</u>, Hitoshi Iba, "[LESS: Lightweight Evolutionary Supernet Search in Minutes](https://arxiv.org/abs/2610.01468)", *arXiv preprint arXiv:2610.01468*, 2026.10.
 
 1. Bowen Jiang, Haowei Cheng, Yuhong Fu, Anne Koziolek, <u>Jialong Li</u>, Weixing Zhang, "[Requirements After the First Edit: Mining Late Requirement Emergence and Rework in Real-World Coding-Agent Sessions](https://arxiv.org/abs/2609.03028)", *arXiv preprint arXiv:2609.03028*, 2026.9.
