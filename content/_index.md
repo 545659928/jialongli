@@ -15,9 +15,9 @@ During my Ph.D., I was also a visiting researcher at Carnegie Mellon University,
 
 ## Join Us
 
-I am actively recruiting students and looking for collaborators.
+I am actively recruiting students and looking for collaborators. I actively welcome students from diverse backgrounds, including cognitive psychology and other fields beyond computer science.
 
-- **Ph.D. and Master's students**: I mainly recruit students at The University of Osaka. I also co-recruit with partner professors at the Institute of Science Tokyo and Waseda University. After admission, I will be your main research supervisor.
+- **Ph.D. and Master's students**: I mainly recruit students at The University of Osaka. I also co-recruit with partner professors at the Institute of Science Tokyo and Waseda University.
 - **Online research interns**: I welcome Master's and Ph.D. students at other universities (with their supervisor's permission) and undergraduates with strong programming skills to work with me remotely. Interns who do well are encouraged to apply to our graduate programs later.
 - **Research collaborators**: I am open to collaboration with researchers in software engineering, AI, and HCI, including joint papers, student exchange, research visits, and joint grant applications.
 
